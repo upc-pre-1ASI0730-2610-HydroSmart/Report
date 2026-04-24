@@ -60,6 +60,10 @@ El proceso de despliegue sigue los siguientes pasos:
 4. GitHub Pages detecta automáticamente los cambios en la rama `main` y publica la nueva versión de la Landing Page.
 
 La URL de despliegue de la Landing Page es la proporcionada por GitHub Pages asociada al repositorio de la organización. Para los Web Services y la Frontend Web Application, la configuración de despliegue se definirá en sprints posteriores conforme avance la implementación.
+
+
+## 5.2. Landing Page, Services & Applications Implementation.
+
 ### 5.2.1. Sprint 1
 Durante el Sprint 1 se planifico y se definió la implementación de la primera versión del landing page de HydroSmart. En este se establecio la propuesta de valor además de información necesaria para convencer al cliente. El trabajo planificado incluyó tanto la orgnización de la estructura y diseño visual, cómo funcionalidades esenciales como la internacionalización y sistema responsivo. 
 
