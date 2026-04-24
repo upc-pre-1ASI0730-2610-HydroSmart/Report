@@ -83,12 +83,12 @@ Durante el Sprint 1 se planifico y se definió la implementación de la primera 
 
 ### 5.2.1.2. Aspect Leaders and Collaborators
 | Team Member                      | GitHub Username | Header | Hero + Beneficios | Características | Planes | Nosotros | FAQ+ Footer |
-|----------------------------------|-------------|--------|-------------------|-----------------|--------|----------|-------------|
-| Huaman Olivos, Yeira Shari       | YeiShari    | L      | L                 | C               | C      | C        | C           |
-| Moscoso Bejar, Angelo Stephano   | StephanoDang| C      | C                 | L               | C      | C        | C           |
-| Tirado Carrera, Gabriela Luciana | Gaby0443    | C      | C                 | C               | L      | C        | C           |
-| Hancco Poma, Keyner Ivan         | 1Kanan2| C      | C                 | C               | C      | C        | L           |
-| Guevara Serrano,Diego Ismael     | Digetto     | C      | C                 | C               | C      | L        | C           |
+|----------------------------------|-----------------|--------|-------------------|-----------------|--------|----------|-------------|
+| Huaman Olivos, Yeira Shari       | YeiShari        | L      | L                 | C               | C      | C        | C           |
+| Moscoso Bejar, Angelo Stephano   | Teffomb         | C      | C                 | L               | C      | C        | C           |
+| Tirado Carrera, Gabriela Luciana | Gaby0443        | C      | C                 | C               | L      | C        | C           |
+| Hancco Poma, Keyner Ivan         | 1Kanan2         | C      | C                 | C               | C      | C        | L           |
+| Guevara Serrano,Diego Ismael     | Digetto         | C      | C                 | C               | C      | L        | C           |
 
 ### 5.2.1.3. Sprint Backlog 1
 El Sprint 1 se enfocó en el desarrollo e implementación del Landing Page MVP de HydroSmart, desplegado en un entorno web, utilizando HTML, CSS y JavaScript.
@@ -299,6 +299,51 @@ El objetivo principal fue entregar una solución mínima viable que permita a lo
 | HydroSmart-Landing-Page  | develop   | 3ef7cb9   |  feat(nosotros): add photos and description              | 22/04/2026         |
 
 ---
+
+### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante este primer Sprint, el equipo avanzó la implementación del Business Website, logrando una interfaz visualmente coherente y adaptable a diferentes dispositivos. A continuación se muestra la evidencia visual de las secciones desplegadas, mostrando la navegación completa del sitio.
+
+1. Home – Presentación de la plataforma:
+
+<img src="images/Home.jpeg" alt="Home.jpeg" width="800">
+
+2. Sección Beneficios:
+
+<img src="images/Beneficios.jpeg" alt="Beneficios.jpeg" width="800">
+
+3. Sección Características:
+
+<img src="images/Características.jpeg" alt="Características.jpeg" width="800">
+
+4. Sección Planes:
+
+<img src="images/Planes.jpeg" alt="Planes" width="800">
+
+5. Sección Nosotros:
+
+<img src="images/Nosotros.jpeg" alt="Nosotros" width="800">
+
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+El despliegue del Business Website se realizó utilizando GitHub Pages, aprovechando la integración directa con el repositorio del proyecto. Esta configuración permite que el sitio sea accesible públicamente y se actualice automáticamente con cada cambio en la rama principal.
+
+<img src="images/Deployment_Landing.jpeg" alt="Deployment_Landing" width="800">
+
+**URL:** https://upc-pre-1asi0730-2610-hydrosmart.github.io/HydroSmart-Landing-Page/
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 1, nuestra colaboración se centró principalmente en la realización del documento y funcionalidad básica de la landing page. El equipo utilizó GitHub Projects para la gestión de tareas, asegurando que cada sección (Hero, About, Pricing) fuera desarrollada correctamente y a tiempo.
+
+### Gráfico de Contribuciones del equipo
+
+### Contribuciones al desarrollo de la Landing Page:
+
+### Contribuciones al desarrollo del Documento:
 
 # Conclusiones y Recomendaciones
 
