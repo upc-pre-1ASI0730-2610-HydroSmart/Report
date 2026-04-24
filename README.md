@@ -26,7 +26,7 @@ Ser la plataforma referente en eficiencia hídrica residencial en Latinoamérica
 | Integrante                                                                        | Código Estudiante | Descripcion de Carrera | Conocimientos y Habilidades a apuntar |
 |-----------------------------------------------------------------------------------|-------------------|------------------------|---------------------------------------|
 | Angelo Stephano Moscoso Bejar                                                     |                   |                        |                                       |
-| Keyner Ivan Hancco Poma                                                           |                   | Ingeniería de Software | C++, Python, CSS, HTML, Figma, SQL, JS, Excelente en comunicación, organización y en el idioma inglés  |
+| <img src="images/keyner.jpeg" width="100"> <br> Keyner Ivan Hancco Poma                                                           | U20221C726                  | Ingeniería de Software | C++, Python, CSS, HTML, Figma, SQL, JS, Excelente en comunicación, organización y en el idioma inglés  |
 | <img src="images/IMG_3235.jpeg" width="100"> <br> Gabriela Luciana Tirado Carrera | U202419592        | Ingeniería de Software | C++, CSS, HTML, Figma, SQL, JS. Hábil en trabajo de equipos y desarrollo de interfaces. |
 | <img src="images/yeiraa.jpeg" width="100"> <br> Yeira Shari Huaman Olivos         | U202210513        | Ingeniería de Software | C++, Python, CSS, HTML, Figma, SQL. Hábil en desarrollo frontend.                                     |
 | <img src="images/deigo.png" width="105"> Diego Ismael Guevara Serrano             | U202318951        | Ingeniería de Software | C++, HTML, CSS, JS                    |
