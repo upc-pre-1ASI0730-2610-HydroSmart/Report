@@ -56,35 +56,35 @@
 ## Registro de Versiones del Informe
 ## Project Report Collaboration Insights
 
-| Versión | Fecha       | Autor                                                                                                   | Descripción de modificación |
-|---------|------------|---------------------------------------------------------------------------------------------------------|-----------------------------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+## 📌 Registro de Versiones
 
-
-
+| Version | Fecha | Autor | Descripcion de Modificacion |
+|--------|------|------|-----------------------------|
+| 0.1 | 09/04/2026 | Equipo | Se actualizó el README incorporando el perfil de la solución, antecedentes, problemática, misión, visión y perfiles del equipo. |
+| 0.2 | 10/04/2026 | Equipo | Se desarrolló el Capítulo 1, incluyendo Lean UX Problem Statements, Assumptions, Hypothesis Statements, segmentos objetivos y Lean UX Canvas. |
+| 0.3 | 11/04/2026 | Equipo | Se añadieron business assumptions y se consolidó la documentación Lean UX. |
+| 0.4 | 12/04/2026 | YeiShari | Se diseñaron y documentaron las entrevistas. |
+| 0.5 | 13/04/2026 | Gaby0443 | Se añadieron entrevistas del segundo segmento objetivo. |
+| 0.6 | 14/04/2026 | YeiShari | Se incorporaron y corrigieron entrevistas. |
+| 0.7 | 15/04/2026 | YeiShari | Se añadieron user personas, needfinding y evidencias. |
+| 0.8 | 17/04/2026 | Equipo | Se desarrolló el análisis de entrevistas, Ubiquitous Language y EventStorming. |
+| 0.9 | 18/04/2026 | teffomb | Se añadieron resúmenes de entrevistas y User Journey Mapping. |
+| 1.0 | 24/04/2026 | teffomb / Equipo | Se incorporaron Empathy Mapping e imágenes. |
+| 1.1 | 17/04/2026 | digeto | Se inició el Capítulo 3 con la definición de Epics, User Stories y Technical Stories. |
+| 1.2 | 17/04/2026 | YeiShari | Se desarrolló el Impact Mapping. |
+| 1.3 | 18/04/2026 | 1Kanan2 | Se agregó el Product Backlog completo. |
+| 1.4 | 19/04/2026 | digeto | Se inició el Capítulo 4 con Navigation Systems, Searching Systems y diseño de Landing Page (wireframes y mockups). |
+| 1.5 | 19/04/2026 | YeiShari | Se desarrollaron sistemas de organización, arquitectura de información y guías de estilo. |
+| 1.6 | 19/04/2026 | Gaby0443 | Se añadieron EventStorming de diseño y diagramas C4. |
+| 1.7 | 21/04/2026 | teffomb | Se desarrolló el diseño orientado a objetos y base de datos. |
+| 1.8 | 22/04/2026 | digeto / Equipo | Se desarrolló el diseño UX/UI de la aplicación web, incluyendo estructura general. |
+| 1.9 | 23/04/2026 | 1Kanan2 / Gaby0443 | Se añadieron wireflows, mockups y actualización del prototipo. |
+| 2.0 | 22/04/2026 | Gaby0443 | Se inició el Capítulo 5 con Sprint Planning y evidencias. |
+| 2.1 | 23/04/2026 | YeiShari | Se documentó la configuración del entorno y gestión del código. |
+| 2.2 | 23/04/2026 | 1Kanan2 | Se añadieron conclusiones, recomendaciones y bibliografía. |
+| 2.3 | 24/04/2026 | teffomb | Se agregaron evidencias de ejecución y despliegue. |
+| 2.4 | 24/04/2026 | digeto | Se documentó la implementación de la Landing Page, servicios y aplicaciones. |
+| 2.5 | 24/04/2026 | Equipo | Se añadieron insights del equipo y cierre del proyecto. |
 </div>
 
 </div>
