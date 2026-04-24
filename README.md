@@ -433,7 +433,14 @@ Los inquilinos o estudiantes utilizan HydroSmart para controlar su consumo, revi
 El recorrido inicia en Home, donde se muestra un Dashboard con el consumo actual, alertas y progreso de ahorro. El menú lateral incluye diferentes opciones como Consumption, History y Saving Goals.
 
 
-A continuación, se presenta el video con los prototipos navegables de los segmentos desarrollados: 
+A continuación, se presenta el video con los prototipos navegables: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202419592_upc_edu_pe/IQBZDvKvlEMDT4o77TmulQGBAUkRwwvXkcnDgq3WCwOwbPw?
+
+<div align="center">
+    <img src="images/prototype.png" alt="Prototype" width="500">
+</div>
+
+
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level EventStorming
 
