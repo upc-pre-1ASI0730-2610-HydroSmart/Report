@@ -412,7 +412,48 @@ Durante el Sprint 1, nuestra colaboración se centró principalmente en la reali
 
 ### Contribuciones al desarrollo de la Landing Page:
 
+<div align="center">
+    <img src="images/landing-page-commits1.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/landing-page-commits2.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/landing-page-commits3.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/landing-page-commits4.PNG" alt="login Wireframe" width="500">
+</div>
+
 ### Contribuciones al desarrollo del Documento:
+
+<div align="center">
+    <img src="images/report-commits1.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/report-commits2.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/report-commits3.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/report-commits4.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/report-commits5.PNG" alt="login Wireframe" width="500">
+</div>
+
+<div align="center">
+    <img src="images/report-commits6.PNG" alt="login Wireframe" width="500">
+</div>
+
 
 # Conclusiones y Recomendaciones
 
