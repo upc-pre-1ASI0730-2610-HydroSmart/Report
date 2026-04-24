@@ -297,7 +297,10 @@ El objetivo principal fue entregar una solución mínima viable que permita a lo
 | HydroSmart-Landing-Page  | develop   | fe0ad44   | feat(suscription): updated stylesSuscription             | 20/04/2026         |
 | HydroSmart-Landing-Page  | develop   | 71c0a11   | feat(nosotros):  add team section with i18n support      | 21/04/2026         |
 | HydroSmart-Landing-Page  | develop   | 3ef7cb9   |  feat(nosotros): add photos and description              | 22/04/2026         |
-
+| HydroSmart-Landing-Page  | develop   | d0d5230   | feat(Features): Add Information.              | 24/04/2026         |
+| HydroSmart-Landing-Page  | develop   | f51a9b2 | docs: add faq and footer section for i18n.js.            | 24/04/2026         |
+| HydroSmart-Landing-Page  | develop   | 9df8c1f | feat(faq and footer): add whole code and texts for the section            | 24/04/2026         |
+| HydroSmart-Landing-Page  | develop   | d47b924 | feat(faq and footer): add styles, colors, texts and icons related to the section            | 24/04/2026         |
 ---
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
