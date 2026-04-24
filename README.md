@@ -56,7 +56,7 @@
 ## Registro de Versiones del Informe
 ## Project Report Collaboration Insights
 
-## 📌 Registro de Versiones
+##  Registro de Versiones
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 |--------|------|------|-----------------------------|
