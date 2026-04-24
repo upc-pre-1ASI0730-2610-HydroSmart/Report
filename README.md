@@ -27,7 +27,7 @@ Ser la plataforma referente en eficiencia hídrica residencial en Latinoamérica
 |--------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------|
 | ![Angelo Stephano Moscoso Bejar](./imagenes/foto%20yazid.jpg) <br> Angelo Stephano Moscoso Bejar       |                        |                                       |
 | ![Keyner Ivan Hancco Poma](./imagenes/foto%20angelo.jpg) <br> Keyner Ivan Hancco Poma                  | Ingeniería de Software | C++, Python, CSS, HTML, Figma, SQL, JS, Excelente en comunicación, organización y en el idioma inglés  |
-| ![Gabriela Luciana Tirado Carrera](./imagenes/foto%20Gonzalo.jpg) <br> Gabriela Luciana Tirado Carrera |                        |                                       |
+| <img src="images/IMG_3235.jpeg" width="100"> <br> Gabriela Luciana Tirado Carrera |Ingeniería de Software| C++,CSS,HTML,Figma,SQL,JS. Hábil en trabajo de equipos y desarrollo de interfaces.
 | <img src="images/yeiraa.jpeg" width="100">  <br> Yeira Shari Huaman Olivos                             | Ingeniería de Software |  C++, Python, CSS, HTML, Figma, SQL. Hábil en desarrollo frontend.                                     |
 | ![Diego Ismael Guevara Serrano](./imagenes/foto%20Antonio.jpg) <br> Diego Ismael Guevara Serrano       | Ingenieria de software | C++, HTML, CSS, JS                    |
 
