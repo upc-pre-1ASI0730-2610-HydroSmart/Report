@@ -23,13 +23,13 @@ Ser la plataforma referente en eficiencia hídrica residencial en Latinoamérica
 </div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| Integrante                                                                                             | Descripcion de Carrera | Conocimientos y Habilidades a apuntar |
-|--------------------------------------------------------------------------------------------------------|------------------------|---------------------------------------|
-| ![Angelo Stephano Moscoso Bejar](./imagenes/foto%20yazid.jpg) <br> Angelo Stephano Moscoso Bejar       |                        |                                       |
-| ![Keyner Ivan Hancco Poma](./imagenes/foto%20angelo.jpg) <br> Keyner Ivan Hancco Poma                  | Ingeniería de Software | C++, Python, CSS, HTML, Figma, SQL, JS, Excelente en comunicación, organización y en el idioma inglés  |
-| <img src="images/IMG_3235.jpeg" width="100"> <br> Gabriela Luciana Tirado Carrera |Ingeniería de Software| C++,CSS,HTML,Figma,SQL,JS. Hábil en trabajo de equipos y desarrollo de interfaces.
-| <img src="images/yeiraa.jpeg" width="100">  <br> Yeira Shari Huaman Olivos                             | Ingeniería de Software |  C++, Python, CSS, HTML, Figma, SQL. Hábil en desarrollo frontend.                                     |
-| ![Diego Ismael Guevara Serrano](./imagenes/foto%20Antonio.jpg) <br> Diego Ismael Guevara Serrano       | Ingenieria de software | C++, HTML, CSS, JS                    |
+| Integrante                                                                                             | Código Estudiante | Descripcion de Carrera | Conocimientos y Habilidades a apuntar |
+|--------------------------------------------------------------------------------------------------------|-------------------|------------------------|---------------------------------------|
+| Angelo Stephano Moscoso Bejar                                                                            |                   |                        |                                       |
+| Keyner Ivan Hancco Poma                                                                                  |                   | Ingeniería de Software | C++, Python, CSS, HTML, Figma, SQL, JS, Excelente en comunicación, organización y en el idioma inglés  |
+| <img src="images/IMG_3235.jpeg" width="100"> <br> Gabriela Luciana Tirado Carrera                 | U202419592        | Ingeniería de Software | C++, CSS, HTML, Figma, SQL, JS. Hábil en trabajo de equipos y desarrollo de interfaces. |
+| <img src="images/yeiraa.jpeg" width="100"> <br> Yeira Shari Huaman Olivos                          | U202210513        | Ingeniería de Software | C++, Python, CSS, HTML, Figma, SQL. Hábil en desarrollo frontend.                                     |
+| Diego Ismael Guevara Serrano                                                                              |                   | Ingeniería de Software | C++, HTML, CSS, JS                    |
 
 
 ## 1.2. Solution Profile
@@ -48,7 +48,7 @@ Actualmente, la gestión del agua en el hogar es mayormente reactiva y manual. L
 
 ### Problemática
 
-<div align="justify">
+<div style="text-align: justify">
 Para entender la necesidad del proyecto, se aplicó la técnica de las 5W's + 2H's:
 
 ### 5W's
