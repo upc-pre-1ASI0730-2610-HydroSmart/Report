@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center;">
-<img src="./imagenes/Logo-UPC.png" alt="Logo UPC" width="150">
+<img src="./images/Logo-UPC.png" alt="Logo UPC" width="150">
 <h3>Universidad Peruana de Ciencias Aplicadas</h3>
 <h4>Facultad de Ingeniería</h4>
 <h4>Carrera de Ingeniería de Software</h4>
@@ -91,7 +91,8 @@
 
 ## Project Report Collaboration Insights
 
-**Link de la organización:** https://github.com/upc-pre-1ASI0730-2610-HydroSmart
+**Link de la organización:**
+https://github.com/upc-pre-1ASI0730-2610-HydroSmart
 
 **Link del Repositorio del Informe:** https://github.com/upc-pre-1ASI0730-2610-HydroSmart/Report.git
 
