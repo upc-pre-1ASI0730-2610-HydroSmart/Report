@@ -320,6 +320,17 @@ Durante este primer Sprint, el equipo avanzó la implementación del Business We
 
 <img src="images/Nosotros.jpeg" alt="Nosotros" width="800">
 
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+El despliegue del Business Website se realizó utilizando GitHub Pages, aprovechando la integración directa con el repositorio del proyecto. Esta configuración permite que el sitio sea accesible públicamente y se actualice automáticamente con cada cambio en la rama principal.
+
+<img src="images/Deployment_Landing.jpeg" alt="Deployment_Landing" width="800">
+
+**URL:** https://upc-pre-1asi0730-2610-hydrosmart.github.io/HydroSmart-Landing-Page/
+
 # Conclusiones y Recomendaciones
 
 ## Conclusiones
