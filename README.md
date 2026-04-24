@@ -331,6 +331,16 @@ El despliegue del Business Website se realizó utilizando GitHub Pages, aprovech
 
 **URL:** https://upc-pre-1asi0730-2610-hydrosmart.github.io/HydroSmart-Landing-Page/
 
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 1, nuestra colaboración se centró principalmente en la realización del documento y funcionalidad básica de la landing page. El equipo utilizó GitHub Projects para la gestión de tareas, asegurando que cada sección (Hero, About, Pricing) fuera desarrollada correctamente y a tiempo.
+
+### Gráfico de Contribuciones del equipo
+
+### Contribuciones al desarrollo de la Landing Page:
+
+### Contribuciones al desarrollo del Documento:
+
 # Conclusiones y Recomendaciones
 
 ## Conclusiones
