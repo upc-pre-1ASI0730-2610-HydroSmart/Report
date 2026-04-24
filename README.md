@@ -54,9 +54,6 @@
 <div style="page-break-after: always;"></div>
 
 ## Registro de Versiones del Informe
-## Project Report Collaboration Insights
-
-##  Registro de Versiones
 
 | Version | Fecha | Autor | Descripcion de Modificacion |
 |--------|------|------|-----------------------------|
@@ -89,6 +86,7 @@
 
 </div>
 
+
 ## Project Report Collaboration Insights
 
 **Link de la organización:**
@@ -96,10 +94,15 @@ https://github.com/upc-pre-1ASI0730-2610-HydroSmart
 
 **Link del Repositorio del Informe:** https://github.com/upc-pre-1ASI0730-2610-HydroSmart/Report.git
 
+### Reporte de Colaboración para la Entrega del AV1
 
-### Reporte de Colaboración para la Entrega del TB1
+**AV1 - Desarrollo del reporte y diseño de la landing page:**
 
-/////
+En esta primera evaluación del proyecto HydroSmart, el trabajo se centró en establecer una base sólida tanto a nivel conceptual como de diseño, definiendo la propuesta de la startup y su aplicación AquaPulse. Se priorizó la identificación de las necesidades de los usuarios, específicamente propietarios de viviendas con áreas verdes y estudiantes que alquilan, quienes presentan dificultades para controlar su consumo de agua. A través de técnicas de análisis y levantamiento de información, se logró comprender la problemática y orientar el desarrollo de una solución alineada a estos contextos.
+
+A partir de este análisis, se desarrollaron componentes clave del proyecto como la definición del problema, la propuesta de valor y el enfoque Lean UX, que permitió estructurar las ideas de manera centrada en el usuario. Asimismo, se complementó con la elaboración de user personas y la identificación de sus principales comportamientos, objetivos y frustraciones, lo que facilitó una mejor comprensión del escenario de uso. Este proceso también permitió organizar la información necesaria para sustentar el diseño de la solución.
+
+En la fase de diseño, se establecieron lineamientos visuales para garantizar coherencia en la interfaz, junto con la definición de la arquitectura de información, incluyendo sistemas de organización, etiquetado y navegación. Se desarrollaron wireframes, mockups y flujos de usuario que representan las principales interacciones dentro de la plataforma. Como resultado tangible, se implementó la landing page del proyecto, evidenciando el avance alcanzado en esta etapa y dejando una base estructurada para las siguientes fases de desarrollo.
 
 ## Contributors
 En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a esta primera entrega. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del grupo.
