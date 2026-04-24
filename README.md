@@ -8,7 +8,7 @@
 <h4>NRC: 2610</h4>
 <h4>Docente: Rafael Oswaldo Castro Veramendi</h4>
 <h4>Informe del Trabajo Final</h4>
-<h4>Startup: HydroSmart</h4>
+<h4>Startup: AquaPulse</h4>
 <h4>Producto: HydroSmart</h4>
 
 <br>
