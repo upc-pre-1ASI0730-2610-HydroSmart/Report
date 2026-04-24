@@ -105,10 +105,56 @@ A partir de este análisis, se desarrollaron componentes clave del proyecto como
 En la fase de diseño, se establecieron lineamientos visuales para garantizar coherencia en la interfaz, junto con la definición de la arquitectura de información, incluyendo sistemas de organización, etiquetado y navegación. Se desarrollaron wireframes, mockups y flujos de usuario que representan las principales interacciones dentro de la plataforma. Como resultado tangible, se implementó la landing page del proyecto, evidenciando el avance alcanzado en esta etapa y dejando una base estructurada para las siguientes fases de desarrollo.
 
 ## Contributors
-En la sección de Contributors se puede visualizar la participación individual de cada integrante del equipo en la redacción del informe correspondiente a esta primera entrega. El registro muestra la cantidad de commits efectuados por cada miembro, así como el número de adiciones y eliminaciones realizadas en el documento, reflejando el nivel de contribución y trabajo colaborativo del grupo.
 
-<img src="./imagenes/contributorsTB1.png">
+<img src="images/ng1.PNG" alt="Mi imagen" width="600"> <br>
 
+<img src="images/ng2.PNG" alt="Mi imagen" width="600"> <br>
+
+<img src="images/ng3.PNG" alt="Mi imagen" width="600"> <br>
+
+**Guevara Serrano, Diego Ismael**  
+- **Lean UX y Definición Inicial.** Contribuyó en el desarrollo del proceso Lean UX, incluyendo la formulación de supuestos e hipótesis, estableciendo una base clara para el enfoque del proyecto.  
+- **Investigación de Usuarios.** Participó en el registro de entrevistas y en la construcción de user stories, permitiendo comprender mejor las necesidades del usuario.  
+- **Arquitectura de Información.** Aportó en la definición de sistemas de búsqueda y navegación, mejorando la estructura de la información.  
+- **Diseño de Landing Page.** Desarrolló wireframes, mockups y el diseño visual de la landing page.  
+- **Configuración Técnica.** Documentó guías de estilo de código y configuraciones iniciales para el despliegue del sistema.
+
+**Hancco Poma, Keyner Ivan**  
+- **Análisis Competitivo.** Realizó el análisis de competidores y propuso estrategias para fortalecer la propuesta de valor.  
+- **Gestión del Producto.** Participó en la elaboración del product backlog y en la definición de funcionalidades.  
+- **Diseño de Aplicación Web.** Desarrolló wireframes, wireflows, mockups y diagramas de flujo de usuario.  
+- **Landing Page.** Contribuyó en la sección de FAQ, footer y estructura general.  
+- **Documentación.** Elaboró conclusiones, recomendaciones y bibliografía del proyecto.
+
+**Huaman Olivos, Yeira Shari**  
+- **Lean UX Canvas y Segmentación.** Elaboró el Lean UX Canvas y definió los segmentos objetivos del proyecto.  
+- **Investigación y Análisis.** Diseñó entrevistas, analizó resultados y desarrolló user personas y user task matrix.  
+- **Impact Mapping.** Construyó el mapeo de impactos alineando objetivos del negocio con funcionalidades.  
+- **Guías de Estilo y Arquitectura.** Definió lineamientos visuales, arquitectura de información, sistemas de organización y etiquetado.  
+- **Diseño de Landing Page.** Participó en el diseño UI, wireframes y mockups.  
+- **Configuración de Software.** Documentó aspectos de gestión, entorno y administración del código.
+
+**Moscoso Bejar, Angelo Stephano**  
+- **Definición del Problema.** Desarrolló la descripción de la startup, antecedentes y problemática.  
+- **Análisis del Usuario.** Elaboró user journey mapping y empathy mapping para entender la experiencia del usuario.  
+- **Diseño de Software.** Trabajó en diseño orientado a objetos, diagramas de clases y base de datos.  
+- **Arquitectura Técnica.** Desarrolló diagramas y estructura de base de datos.  
+- **Evidencias Técnicas.** Documentó evidencias de ejecución, servicios y despliegue del sistema.
+
+**Tirado Carrera, Gabriela Luciana**  
+- **Análisis de Competencia.** Identificó competidores y apoyó en el registro de entrevistas.  
+- **Modelado del Dominio.** Participó en Big Picture Event Storming y lenguaje ubicuo.  
+- **Arquitectura de Software.** Desarrolló diagramas C4: contexto, contenedores y componentes.  
+- **Prototipado Web.** Contribuyó en el desarrollo de prototipos de la aplicación.  
+- **Gestión Ágil.** Participó en sprint planning, backlog y organización del equipo.  
+- **Evidencias de Desarrollo.** Documentó avances y evidencias para la revisión del sprint.
+
+**Contribuciones Grupales**  
+- **Investigación de Usuarios.** Desarrollo conjunto de entrevistas y análisis de necesidades.  
+- **Diseño UX/UI.** Creación colaborativa de la landing page, incluyendo wireframes y mockups.  
+- **Arquitectura de Información.** Definición de sistemas de organización, navegación y etiquetado.  
+- **Modelado del Sistema.** Elaboración de diagramas y estructura inicial del sistema.  
+- **Planificación del Proyecto.** Construcción del backlog, planificación del sprint y coordinación del equipo.
 
 # Contenido
 
