@@ -328,92 +328,121 @@ Se integrarán servicios RESTful para la comunicación con el backend y se crear
 
 ## 4.4.1 Web Applications Wireframes.
 
-
-HomePage - Wireframe
-
-<div align="center">
-    <img src="images/web-applications-wireframes-homepage.PNG" alt="homepage Wireframe" width="500">
-</div>
-
-User Register - Wireframe
+Login - Wireframe
 
 <div align="center">
-    <img src="images/web-applications-wireframes-user-register.PNG" alt="user register Wireframe" width="500">
+    <img src="images/web-applications-wireframes-login.PNG" alt="login Wireframe" width="500">
 </div>
 
-Password Recovery - Wireframe
+Dashboard - Wireframe
 
 <div align="center">
-    <img src="images/web-applications-wireframes-password-recovery.PNG" alt="password Wireframe" width="500">
+    <img src="images/web-applications-wireframes-dashboard1.PNG" alt="dashboard Wireframe" width="500">
 </div>
 
-Password Confirmation - Wireframe
+Dashboard and Notifications - Wireframe
 
 <div align="center">
-    <img src="images/web-applications-wireframes-password-confirmation.PNG" alt="password Wireframe" width="500">
+    <img src="images/web-applications-wireframes-dashboard-notifications.PNG" alt="dashboard and notifications Wireframe" width="500">
 </div>
 
-
-Log In - Wireframe
+Profile - Wireframe
 
 <div align="center">
-    <img src="images/web-applications-wireframes-log-in.PNG" alt="log in Wireframe" width="500">
+    <img src="images/web-applications-wireframes-profile.PNG" alt="Profile Wireframe" width="500">
 </div>
+
+Devices 1 - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-devices1.PNG" alt="Devices1 Wireframe" width="500">
+</div>
+
+Devices 2 - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-devices2.PNG" alt="Devices2 Wireframe" width="500">
+</div>
+
+Reports - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-reports.PNG" alt="Reports Wireframe" width="500">
+</div>
+
+Settings - Wireframe
+
+<div align="center">
+    <img src="images/web-applications-wireframes-settings.PNG" alt="Settings Wireframe" width="500">
+</div>
+
 
 ## 4.4.2 Web Applications Wireflow Diagrams.
 
-Este Wireflow muestra el camino que seguiría un usuario al entrar por primera vez a la aplicación Web, llena el formulario de registro con sus datos y procede a iniciar sesión con sus credenciales recién creadas. Está representado en Wireframes.
+Este Wireflow muestra el camino que seguiría un usuario al entrar por primera vez a la aplicación Web, procede a iniciar sesión y puede consultar el dashboard, su perfil, configuración, notificaciones, etc. Está representado en Wireframes.
 
 <div align="center">
-    <img src="images/web-applications-wireframes-wireflow1.PNG" alt="log in Wireframe" width="500">
+    <img src="images/web-applications-wireframes-diagram1.PNG" alt="diagram flow Wireframe" width="500">
 </div>
 
 ## 4.4.2 Web Applications Mock-ups.
 
 
-Log In - Mock Up
+Login - Mock-Up
 
 <div align="center">
-    <img src="images/web-applications-mockups-log-in.PNG" alt="Log In - Mock Up" width="500">
+    <img src="images/web-applications-mockups-login.PNG" alt="login Mock Up" width="500">
 </div>
 
-Register - Mock Up
+Dashboard - Mock-Up
 
 <div align="center">
-    <img src="images/web-applications-mockups-user-register.PNG" alt="Register - Mock Up" width="500">
+    <img src="images/web-applications-mockups-dashboard1.PNG" alt="dashboard Mock Up" width="500">
 </div>
 
-Password Recovery - Mock Up
+Dashboard and Notifications - Mock-Up
 
 <div align="center">
-    <img src="images/web-applications-mockups-password-recovery.PNG" alt="Password Recovery - Mock Up" width="500">
+    <img src="images/web-applications-mockups-dashboard-notifications.PNG" alt="dashboard and notifications Mock Up" width="500">
 </div>
 
-Password Recovery Code Confirmation - Mock Up
+Profile - Mock-Up
 
 <div align="center">
-    <img src="images/web-applications-mockups-password-recovery-code-confirmation.PNG" alt="Password Recovery Code Confirmation - Mock Up" width="500">
+    <img src="images/web-applications-mockups-profile.PNG" alt="Profile Mock Up" width="500">
 </div>
 
-New Password Confirmation - Mock Up
+Devices 1 - Mock-Up
 
 <div align="center">
-    <img src="images/web-applications-mockups-password-confirmation.PNG" alt="New Password Confirmation - Mock Up" width="500">
+    <img src="images/web-applications-mockups-devices1.PNG" alt="Devices1 Mock Up" width="500">
 </div>
 
-Homepage - Mock Up
+Devices 2 - Mock-Up
 
 <div align="center">
-    <img src="images/web-applications-mockups-homepage.PNG" alt="Homepage - Mock Up" width="500">
+    <img src="images/web-applications-mockups-devices2.PNG" alt="Devices2 Mock Up" width="500">
+</div>
+
+Reports - Mock-Up
+<div align="center">
+    <img src="images/web-applications-mockups-reports.PNG" alt="Reports Mock Up" width="500">
+</div>
+
+Settings - Mock-Up
+
+<div align="center">
+    <img src="images/web-applications-mockups-settings.PNG" alt="Settings Mock Up" width="500">
 </div>
 
 ## 4.4.3 Web Applications User Flow Diagrams.
 
-Este Wireflow muestra el camino que seguiría un usuario al entrar por primera vez a la aplicación Web, llena el formulario de registro con sus datos y procede a iniciar sesión con sus credenciales recién creadas. Está representado en Mock Ups.
+Este Wireflow muestra el camino que seguiría un usuario al entrar por primera vez a la aplicación Web, procede a iniciar sesión y puede consultar el dashboard, su perfil, configuración, notificaciones, etc. Está representado en Mockups.
 
 <div align="center">
-    <img src="images/web-applications-mockup-wireflow1.PNG" alt="Homepage - Mock Up" width="500">
+    <img src="images/web-applications-mockups-diagram1.PNG" alt="diagram flow Wireframe" width="500">
 </div>
+
 
 
 
