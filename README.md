@@ -517,6 +517,31 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 | Hancco, Keyner                     | 1Kanan2         | L                                  | C                                        | C                      | C                      | C                       |
 | Guevara, Diego                     | Digetto         | C                                  | C                                        | L                      | C                      | C                       |
 
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+En esta sección se demuestran los commits relacionados con los principales avances en la implementación.
+Estos commits provienen del repositorio de la aplicación web de la organización de GitHub.
+
+Enlace al repositorio de la aplicación web: https://github.com/upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend
+
+| Repository                                              | Branch             | Commit Id | Commint Message                                                                 | Commited on (Date) |
+|---------------------------------------------------------|--------------------|-----------|---------------------------------------------------------------------------------|--------------------|
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/profile       | 030a233   | feat: add profile management components and API integration.                    | 11/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/profile       | 4fc5f24   | feat: implement profile management with loading and saving functionality.       | 11/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/notifications | eb2b5c6   | feat: implement notifications panel with loading and error handling.            | 12/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/notifications | 346864c   | feat(notifications): add notification store, API integration, and notification view component. | 12/05/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/devices       | 630759d   | feat: add devices structure                                                     | 12/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/devices       | 00b03e0   | feat: add assembler and api for device                                          | 12/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/devices       | 6ee60fe   | feat(devices): add devices route configuration                                  | 12/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/settings      | 736d796   | feat(settings): add Notifications and alerts.                                   | 12/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/settings      | 0ce3c03   | feat(settings): Security & Privacy.                                             | 12/05/2026         |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/settings      | 20659b6   | feat(settings): Add Help & Support.                                             | 12/05/2026         |
+
+
+
+
 
 # Conclusiones y Recomendaciones
 
