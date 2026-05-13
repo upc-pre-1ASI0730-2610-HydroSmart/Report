@@ -698,6 +698,12 @@ Durante el Sprint 2, nuestra colaboración se centró principalmente en la actua
     <img src="images/FECommits7.png" alt="Frontend Commit" width="500">
 </div>
 
+### Contribuciones al desarrollo del Documento:
+
+<div align="center">
+    <img src="images/document-commits2.png" alt="Frontend Commit" width="500">
+</div>
+
 
 # Conclusiones y Recomendaciones
 
