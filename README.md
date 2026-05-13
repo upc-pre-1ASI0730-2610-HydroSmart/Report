@@ -539,9 +539,25 @@ Enlace al repositorio de la aplicación web: https://github.com/upc-pre-1ASI0730
 | upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/settings      | 0ce3c03   | feat(settings): Security & Privacy.                                             | 12/05/2026         |
 | upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Frontend     | feat/settings      | 20659b6   | feat(settings): Add Help & Support.                                             | 12/05/2026         |
 
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante la ejecución del sprint se consiguieron completar satisfactoriamente todos los objetivos planteados, logrando implementar las funcionalidades clave del sistema de gestión AquaPulse y consolidando una base firme para la administración eficiente del consumo de agua en entornos domésticos. Entre las principales características desarrolladas se destacan las siguientes:
+
+1. Configuración y edición del perfil de usuario, brindando la posibilidad de ajustar y adaptar la experiencia dentro de la aplicación según las preferencias individuales.
 
 
+2. Consulta y exportación de reportes, incorporando opciones de filtrado por rangos de fechas y categorías, así como la capacidad de descargar la información recopilada en distintos formatos disponibles.
 
+
+3. Administración de dispositivos, permitiendo gestionar de manera más ordenada e intuitiva los distintos equipos vinculados dentro del sistema.
+
+
+4. Implementación de internacionalización (i18n), facilitando el uso de la plataforma en dos idiomas distintos para mejorar la accesibilidad de los usuarios.
+
+
+5. Integración del soporte multilenguaje (i18n), reforzando la disponibilidad de la aplicación en más de un idioma y asegurando una interacción más inclusiva para diferentes tipos de usuarios.
+
+//imágenes
 
 # Conclusiones y Recomendaciones
 
