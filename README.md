@@ -604,46 +604,47 @@ Durante la ejecución del sprint se consiguieron completar satisfactoriamente to
 
 **Configuración**
 <div align="center">
-    <img src="images/configuracion.PNG" alt="Configuración " width="500">
+    <img src="images/configuracion.png" alt="Configuración " width="500">
 </div>
 <div align="center">
-    <img src="images/configuracion2.PNG" alt="Configuración " width="500">
+    <img src="images/configuracion2.png" alt="Configuración " width="500">
 </div>
+
 **Edición del Perfil**
 <div align="center">
-    <img src="images/edición-perfil.PNG" alt="Edición del Perfil" width="500">
+    <img src="images/edición-perfil.png" alt="Edición del Perfil" width="500">
 </div>
 
 **Reportes**
 <div align="center">
-    <img src="images/reportes.PNG" alt="Reportes" width="500">
+    <img src="images/reportes.png" alt="Reportes" width="500">
 </div>
 
 **Administración de Dispositivos**
 <div align="center">
-    <img src="images/devices.PNG" alt="Dispositivos" width="500">
+    <img src="images/devices.png" alt="Dispositivos" width="500">
 </div>
 <div align="center">
-    <img src="images/agregar-device.PNG" alt="Agregar Dispositivo" width="500">
+    <img src="images/agregar-device.png" alt="Agregar Dispositivo" width="500">
 </div>
 <div align="center">
-    <img src="images/editar-device.PNG" alt="Editar Dispositivo" width="500">
+    <img src="images/editar-device.png" alt="Editar Dispositivo" width="500">
 </div>
 
 **Dashboard y Notificaciones**
 <div align="center">
-    <img src="images/dashboard.PNG" alt="Dashboard" width="500">
+    <img src="images/dashboard.png" alt="Dashboard" width="500">
 </div>
 <div align="center">
-    <img src="images/dashboard2.PNG" alt="Dashboard" width="500">
+    <img src="images/dashboard2.png" alt="Dashboard" width="500">
 </div>
 <div align="center">
-    <img src="images/notificaciones.PNG" alt="Notificaciones" width="500">
+    <img src="images/notificaciones.png" alt="Notificaciones" width="500">
 </div>
 
 **Internacionalización**
 <div align="center">
-    <img src="images/internacionalizacion.PNG" alt="Internacionalización de la plataforma" width="500">
+    <img src="images/internacionalizacion.png" alt="Internacionalización de la plataforma" width="500">
 </div>
 
 
