@@ -608,11 +608,13 @@ Durante la ejecución del sprint se consiguieron completar satisfactoriamente to
 </div>
 <div>
  <img src="images/configuracion2.png" alt="Configuración " width="800">
-</div>  
+</div> 
+
 **Edición del Perfil**
 <div>
   <img src="images/edición-perfil.png" alt="Edición del Perfil" width="800">
 </div>
+
 **Reportes**
 <div>
   <img src="images/reportes.png" alt="Reportes" width="800">
@@ -625,6 +627,7 @@ Durante la ejecución del sprint se consiguieron completar satisfactoriamente to
 <div>
   <img src="images/editar-device.png" alt="Editar Dispositivo" width="800">
 </div>
+
 **Dashboard**
 <div>
   <img src="images/dashboard.png" alt="Dashboard" width="800">
@@ -632,10 +635,12 @@ Durante la ejecución del sprint se consiguieron completar satisfactoriamente to
 <div>
   <img src="images/dashboard2.png" alt="Dashboard" width="800">
 </div>
+
  **Notificaciones** 
 <div>
   <img src="images/notificaciones.png" alt="Notificaciones" width="800">
 </div>
+
 **Internacionalización**
 <div>
   <img src="images/internacionalizacion.png" alt="Internacionalización de la plataforma" width="800">
@@ -662,6 +667,34 @@ En este sprint 2, el enfoque principal estuvo en las épicas relacionadas con la
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+Durante el Sprint 2, nuestra colaboración se centró principalmente en la actualización del documento y frontend de AquaPulse. El equipo utilizó GitHub Projects para la gestión de tareas, asegurando que cada sección fuera desarrollado correctamente y a tiempo.
+
+### Gráfico de Contribuciones del equipo
+
+### Contribuciones al desarrollo del Frontend
+
+<div align="center">
+    <img src="images/FECommits.PNG" alt="Frontend Commit" width="500">
+</div>
+<div align="center">
+    <img src="images/FECommits2.PNG" alt="Frontend Commit" width="500">
+</div>
+<div align="center">
+    <img src="images/FECommits3.PNG" alt="Frontend Commit" width="500">
+</div>
+<div align="center">
+    <img src="images/FECommits4.PNG" alt="Frontend Commit" width="500">
+</div>
+<div align="center">
+    <img src="images/FECommits5.PNG" alt="Frontend Commit" width="500">
+</div>
+<div align="center">
+    <img src="images/FECommits6.PNG" alt="Frontend Commit" width="500">
+</div>
+<div align="center">
+    <img src="images/FECommits7.PNG" alt="Frontend Commit" width="500">
+</div>
+
 
 # Conclusiones y Recomendaciones
 
