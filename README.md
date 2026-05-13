@@ -603,49 +603,31 @@ Durante la ejecución del sprint se consiguieron completar satisfactoriamente to
 5. Integración del soporte multilenguaje (i18n), reforzando la disponibilidad de la aplicación en más de un idioma y asegurando una interacción más inclusiva para diferentes tipos de usuarios.
 
 **Configuración**
-<div align="center">
-    <img src="images/configuracion.png" alt="Configuración " width="500">
-</div>
-<div align="center">
-    <img src="images/configuracion2.png" alt="Configuración " width="500">
-</div>
+    <img src="images/configuracion.png" alt="Configuración " width="800">
+    <img src="images/configuracion2.png" alt="Configuración " width="800">
 
 **Edición del Perfil**
-<div align="center">
-    <img src="images/edición-perfil.png" alt="Edición del Perfil" width="500">
-</div>
+    <img src="images/edición-perfil.png" alt="Edición del Perfil" width="800">
+
 
 **Reportes**
-<div align="center">
-    <img src="images/reportes.png" alt="Reportes" width="500">
-</div>
+    <img src="images/reportes.png" alt="Reportes" width="800">
+
 
 **Administración de Dispositivos**
-<div align="center">
-    <img src="images/devices.png" alt="Dispositivos" width="500">
-</div>
-<div align="center">
-    <img src="images/agregar-device.png" alt="Agregar Dispositivo" width="500">
-</div>
-<div align="center">
-    <img src="images/editar-device.png" alt="Editar Dispositivo" width="500">
-</div>
+    <img src="images/devices.png" alt="Dispositivos" width="800">
+    <img src="images/editar-device.png" alt="Editar Dispositivo" width="800">
 
-**Dashboard y Notificaciones**
-<div align="center">
-    <img src="images/dashboard.png" alt="Dashboard" width="500">
-</div>
-<div align="center">
-    <img src="images/dashboard2.png" alt="Dashboard" width="500">
-</div>
-<div align="center">
-    <img src="images/notificaciones.png" alt="Notificaciones" width="500">
-</div>
+
+**Dashboard**
+    <img src="images/dashboard.png" alt="Dashboard" width="800">
+    <img src="images/dashboard2.png" alt="Dashboard" width="800">
+ 
+ **Notificaciones** 
+    <img src="images/notificaciones.png" alt="Notificaciones" width="800">
 
 **Internacionalización**
-<div align="center">
-    <img src="images/internacionalizacion.png" alt="Internacionalización de la plataforma" width="500">
-</div>
+    <img src="images/internacionalizacion.png" alt="Internacionalización de la plataforma" width="800">
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
