@@ -156,6 +156,60 @@ En la fase de diseño, se establecieron lineamientos visuales para garantizar co
 - **Modelado del Sistema.** Elaboración de diagramas y estructura inicial del sistema.  
 - **Planificación del Proyecto.** Construcción del backlog, planificación del sprint y coordinación del equipo.
 
+### Reporte de Colaboración para la Entrega del TB1
+
+**TB1 - Desarrollo del reporte y diseño de la solución AquaPulse:**
+
+En esta primera entrega del proyecto AquaPulse, el trabajo se centró en establecer una base sólida tanto a nivel conceptual como de diseño, definiendo la propuesta de la startup y su aplicación orientada a la optimización del consumo de agua en entornos domésticos. Se priorizó la identificación de las necesidades de los usuarios, especialmente aquellos que buscan monitorear y comprender su consumo de agua, quienes presentan dificultades para interpretar su gasto y tomar decisiones informadas. A través de técnicas de análisis y levantamiento de información, se logró comprender la problemática y orientar el desarrollo de una solución alineada a estos contextos.
+
+A partir de este análisis, se desarrollaron componentes clave del proyecto como la definición del problema, la propuesta de valor y el enfoque Lean UX, que permitió estructurar las ideas de manera centrada en el usuario. Asimismo, se complementó con la elaboración de user personas y la identificación de sus principales comportamientos, objetivos y frustraciones, lo que facilitó una mejor comprensión del escenario de uso. Este proceso también permitió organizar la información necesaria para sustentar el diseño de la solución.
+
+En la fase de diseño, se establecieron lineamientos visuales para garantizar coherencia en la interfaz, junto con la definición de la arquitectura de información, incluyendo sistemas de organización, etiquetado y navegación. Se desarrollaron wireframes, mockups y flujos de usuario que representan las principales interacciones dentro de la plataforma, como la visualización del consumo, el análisis de datos y la gestión de alertas. Como resultado tangible, se implementaron prototipos de la aplicación web, evidenciando el avance alcanzado en esta etapa y dejando una base estructurada para las siguientes fases de desarrollo.
+
+## Contributors
+
+<img src="images/ng1.PNG" alt="Mi imagen" width="600"> <br>
+
+<img src="images/ng2.PNG" alt="Mi imagen" width="600"> <br>
+
+<img src="images/goboihl.PNG" alt="Mi imagen" width="600"> <br>
+
+**Guevara Serrano, Diego Ismael**
+- **Módulo de Reportes.** Participó en la definición y diseño de la visualización del historial y análisis del consumo de agua.
+- **Investigación de Usuarios.** Apoyó en la construcción de user stories relacionadas al análisis de consumo.
+- **Diseño de la Aplicación.** Desarrolló wireframes y mockups enfocados en reportes y gráficos.
+- **Documentación.** Contribuyó en la elaboración del reporte del proyecto
+
+**Hancco Poma, Keyner Ivan**
+- **Módulo Dashboard - Analytics.** Lideró el diseño del dashboard principal para la visualización clara del consumo de agua.
+- **Gestión del Producto.** Participó en la elaboración del product backlog y definición de funcionalidades analíticas.
+- **Diseño de Aplicación Web.** Desarrolló wireframes, wireflows y mockups del dashboard.
+- **Documentación.** Apoyó en conclusiones y desarrollo del reporte.
+
+**Huaman Olivos, Yeira Shari**
+- **Módulo Profile y Notifications.** Participó en la definición de funcionalidades relacionadas al perfil de usuario y sistema de notificaciones.
+- **Lean UX Canvas y Segmentación.** Elaboró el Lean UX Canvas y definió segmentos de usuarios.
+- **Investigación y Análisis.** Diseñó entrevistas y desarrolló user personas.
+- **Diseño UX/UI.** Contribuyó en wireframes y mockups enfocados en experiencia del usuario.
+
+**Moscoso Bejar, Angelo Stephano**
+- **Módulo Settings.** Participó en la definición de funcionalidades de configuración y personalización de la aplicación.
+- **Definición del Problema.** Desarrolló la problemática del proyecto y su contexto.
+- **Análisis del Usuario.** Elaboró user journey mapping y empathy mapping.
+- **Arquitectura Técnica.** Apoyó en la estructura inicial del sistema.
+
+**Tirado Carrera, Gabriela Luciana**
+- **Módulo Devices.** Participó en la conceptualización de la gestión de dispositivos dentro de la plataforma.
+- **Análisis de Competencia.** Identificó soluciones similares en el mercado.
+- **Modelado del Dominio.** Apoyó en la definición del sistema y sus componentes.
+- **Prototipado Web.** Contribuyó en el desarrollo de interfaces.
+
+**Contribuciones Grupales**
+- **Investigación de Usuarios.** Desarrollo conjunto del análisis de necesidades relacionadas al consumo de agua.
+- **Diseño UX/UI.** Creación colaborativa de wireframes, mockups y flujos de usuario.
+- **Arquitectura de Información.** Definición de sistemas de organización, navegación y etiquetado.
+- **Planificación del Proyecto.** Construcción del backlog y organización del trabajo del equipo.
+
 # Contenido
 
 - [Student Outcome](#student-outcome)
