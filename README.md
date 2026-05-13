@@ -724,6 +724,17 @@ Durante el Sprint 2, nuestra colaboración se centró principalmente en la actua
 - **Los objetivos de negocio son alcanzables y están bien planteados:**  
   Las metas definidas, alcanzar 800 usuarios activos en 6 meses y aumentar la retención en un 25% en 9 meses, son ambiciosas pero realistas si se acompañan de una buena estrategia de onboarding, contenido educativo y alianzas institucionales. El Impact Mapping desarrollado conecta correctamente esos objetivos con acciones concretas dentro del producto.
 
+- **La implementación del frontend permitió materializar la propuesta de valor de HydroSmart en una solución funcional:**
+Durante este sprint se logró transformar los requerimientos funcionales y los diseños previamente definidos en una aplicación web interactiva, permitiendo que la propuesta planteada deje de ser únicamente conceptual y se convierta en una plataforma navegable, accesible y orientada a resolver una necesidad real relacionada con el consumo responsable del agua.
+
+- **El uso de tecnologías modernas facilitó un desarrollo escalable y mantenible:**
+La utilización de Vue.js como framework principal y Vite como herramienta de construcción permitió implementar una arquitectura basada en componentes reutilizables, favoreciendo la organización del código, la escalabilidad del sistema y la facilidad para incorporar nuevas funcionalidades en futuras etapas del proyecto.
+
+- **La simulación de datos permitió validar el comportamiento funcional del sistema:**
+El uso de una base de datos simulada mediante archivos locales permitió probar de forma efectiva la interacción entre la interfaz y los datos dinámicos, validando procesos clave como visualización, edición y actualización de información, además de preparar técnicamente la plataforma para una futura integración con un backend real.
+
+- **Esta entrega establece una base sólida para la evolución futura del sistema:**
+Con el frontend implementado y funcional, HydroSmart cuenta ahora con una base tecnológica estable sobre la cual podrán integrarse nuevas capas de desarrollo, como servicios backend, conexión con dispositivos IoT y funcionalidades avanzadas de análisis predictivo, fortaleciendo así la visión de largo plazo del proyecto.
 
 ## Recomendaciones
 
