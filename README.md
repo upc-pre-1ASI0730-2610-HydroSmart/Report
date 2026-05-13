@@ -559,6 +559,24 @@ Durante la ejecución del sprint se consiguieron completar satisfactoriamente to
 
 //imágenes
 
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 2 del proyecto AquaPulse, el desarrollo se enfocó en la implementación funcional de la aplicación web, integrando la interfaz de usuario con una fuente de datos local basada en un archivo db.json. Este enfoque permitió simular el comportamiento de una API, facilitando el manejo de información dinámica sin necesidad de contar con un backend desplegado.
+
+**Estado actual:**
+
+- Se desarrollaron e integraron las principales vistas de la plataforma (Dashboard, Profile, Settings, Devices, Reports y Settings), asegurando una experiencia visual uniforme, una navegación fluida y una correcta interacción con los datos simulados.
+
+- La gestión de datos se realiza mediante un archivo db.json, el cual define las colecciones utilizadas en la aplicación y permite replicar operaciones tipo CRUD (crear, leer, actualizar y eliminar) a través de herramientas locales como json-server.
+
+- Aún no se ha implementado una capa backend con controladores, servicios ni lógica de negocio avanzada; no obstante, la arquitectura actual se encuentra preparada para incorporar estos elementos en futuras fases del proyecto.
+
+- Se habilitaron funcionalidades interactivas relevantes, como la edición de información del usuario, la actualización de datos simulados y la visualización de contenido dinámico dentro de la aplicación.
+
+- Además, se reforzó la internacionalización (i18n), logrando una interfaz moderna, comprensible y adaptable a distintos idiomas, mejorando así la experiencia del usuario.
+
+En este sprint 2, el enfoque principal estuvo en las épicas relacionadas con la construcción del frontend y la simulación de una API mediante db.json, lo que permitió emular la interacción con un sistema backend real. Este avance permitió consolidar una versión funcional de AquaPulse, orientada a la optimización del consumo de agua, facilitando la gestión dinámica de datos y dejando una base preparada para la futura implementación de un backend con mayor complejidad y persistencia real.
+
 # Conclusiones y Recomendaciones
 
 ## Conclusiones
