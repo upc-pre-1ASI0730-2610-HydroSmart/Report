@@ -497,11 +497,11 @@ Durante el segundo Sprint se continuó con el desarrollo de la plataforma web Aq
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Velocity</td>
-    <td colspan="8">-</td>
+    <td colspan="8">31</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">-</td>
+    <td colspan="8">39</td>
 </tr>
 </table>
 
@@ -518,6 +518,55 @@ Con la finalidad de mejorar la colaboración en equipo a cada integrante se asig
 | Guevara, Diego                     | Digetto         | C                                  | C                                        | L                      | C                      | C                       |
 
 #### 5.2.2.3. Sprint Backlog 2
+
+El presente Sprint Backlog se enfoca en consolidar las funcionalidades clave de la aplicación web AquaPulse, orientadas a la optimización del consumo de agua en el hogar. En este sprint, el objetivo principal es implementar características relacionadas con la visualización y análisis del consumo, así como la gestión de alertas y notificaciones, permitiendo a los usuarios interpretar su gasto de manera clara y tomar decisiones informadas.
+
+Asimismo, se priorizó el desarrollo de componentes como el dashboard analítico, el historial de consumo, la proyección de gasto mensual y los sistemas de alertas ante consumos inusuales o posibles fugas. Estas funcionalidades fueron implementadas utilizando una fuente de datos simulada mediante db.json, lo que permitió trabajar con información dinámica sin requerir un backend desplegado, manteniendo una arquitectura preparada para futuras integraciones.
+
+A continuación, se presenta la tabla de control del Sprint 2, donde se detallan las historias de usuario trabajadas, junto con sus respectivas tareas (Work Items), descripciones funcionales, estimaciones de tiempo, responsables asignados y el estado actual de cada actividad.
+
+<table>
+  <tr>
+    <th colspan="7">Sprint 2 – Work Items / Tasks (AquaPulse)</th>
+  </tr>
+  <tr>
+    <th>User Story ID</th>
+    <th>Task ID</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+
+  <!-- EP02 -->
+  <tr><td colspan="7"><b>EP02 – Visualización y Análisis de Consumo</b></td></tr>
+
+  <tr><td>US05</td><td>UT01</td><td>Diseñar dashboard de consumo</td><td>Crear interfaz clara con indicadores visuales para interpretar el consumo de agua.</td><td>4h</td><td>Keyner Hancco</td><td>Done</td></tr>
+  <tr><td></td><td>UT02</td><td>Implementar etiquetas y colores</td><td>Agregar ayudas visuales como colores, iconos y etiquetas explicativas.</td><td>3h</td><td>Gabriela TIrado</td><td>Done</td></tr>
+
+  <tr><td>US06</td><td>UT03</td><td>Visualizar historial de consumo</td><td>Desarrollar gráficos de consumo filtrados por períodos de tiempo.</td><td>4h</td><td>Diego Guevara</td><td>Done</td></tr>
+  <tr><td></td><td>UT04</td><td>Manejo de historial vacío</td><td>Mostrar mensaje cuando no existan datos históricos disponibles.</td><td>2h</td><td>Diego Guevara</td><td>Done</td></tr>
+
+  <tr><td>US07</td><td>UT05</td><td>Proyección de gasto mensual</td><td>Calcular y mostrar estimación del consumo mensual en soles.</td><td>4h</td><td>Keyner Hancco</td><td>Done</td></tr>
+  <tr><td></td><td>UT06</td><td>Validar datos insuficientes</td><td>Indicar al usuario cuando no hay suficiente información para generar proyección.</td><td>2h</td><td>Angelo Moscoso</td><td>Done</td></tr>
+
+  <!-- EP03 -->
+  <tr><td colspan="7"><b>EP03 – Alertas y Configuración</b></td></tr>
+
+  <tr><td>US08</td><td>UT07</td><td>Implementar alertas de consumo</td><td>Detectar consumo elevado y generar notificaciones automáticas.</td><td>3h</td><td>Yeira Huaman</td><td>Done</td></tr>
+  <tr><td></td><td>UT08</td><td>Notificación de consumo normal</td><td>Validar que no se envíen alertas si el consumo está dentro del rango.</td><td>2h</td><td>Yeira Huaman</td><td>Done</td></tr>
+
+  <tr><td>US09</td><td>UT09</td><td>Detección de fugas</td><td>Identificar patrones anómalos de consumo continuo.</td><td>4h</td><td>Gabriela Tirado</td><td>Done</td></tr>
+
+  <tr><td>US10</td><td>UT10</td><td>Configuración de notificaciones</td><td>Permitir al usuario personalizar qué alertas desea recibir.</td><td>3h</td><td>Angelo Moscoso</td><td>Done</td></tr>
+
+  <!-- EP06 -->
+  <tr><td colspan="7"><b>EP06 – Análisis Comparativo</b></td></tr>
+
+  <tr><td>US16</td><td>UT11</td><td>Comparativo semanal</td><td>Mostrar gráfico comparativo entre consumo de semanas.</td><td>4h</td><td>Diego Guevara</td><td>Done</td></tr>
+
+</table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -576,6 +625,10 @@ Durante el Sprint 2 del proyecto AquaPulse, el desarrollo se enfocó en la imple
 - Además, se reforzó la internacionalización (i18n), logrando una interfaz moderna, comprensible y adaptable a distintos idiomas, mejorando así la experiencia del usuario.
 
 En este sprint 2, el enfoque principal estuvo en las épicas relacionadas con la construcción del frontend y la simulación de una API mediante db.json, lo que permitió emular la interacción con un sistema backend real. Este avance permitió consolidar una versión funcional de AquaPulse, orientada a la optimización del consumo de agua, facilitando la gestión dinámica de datos y dejando una base preparada para la futura implementación de un backend con mayor complejidad y persistencia real.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 # Conclusiones y Recomendaciones
 
