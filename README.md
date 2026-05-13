@@ -666,6 +666,12 @@ En este sprint 2, el enfoque principal estuvo en las épicas relacionadas con la
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+El despliegue del Frontend de AquaPulse se realizó utilizando GitHub Pages, aprovechando la integración directa con el repositorio del proyecto. Esta configuración permite que el sitio sea accesible públicamente y se actualice automáticamente con cada cambio en la rama principal.
+
+
+
+**URL:**
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 Durante el Sprint 2, nuestra colaboración se centró principalmente en la actualización del documento y frontend de AquaPulse. El equipo utilizó GitHub Projects para la gestión de tareas, asegurando que cada sección fuera desarrollado correctamente y a tiempo.
 
@@ -699,7 +705,9 @@ Durante el Sprint 2, nuestra colaboración se centró principalmente en la actua
 </div>
 
 ### Contribuciones al desarrollo del Documento:
-
+<div align="center">
+    <img src="images/document-commits.png" alt="Frontend Commit" width="500">
+</div>
 <div align="center">
     <img src="images/document-commits2.png" alt="Frontend Commit" width="500">
 </div>
