@@ -674,25 +674,28 @@ Durante el Sprint 2, nuestra colaboración se centró principalmente en la actua
 ### Contribuciones al desarrollo del Frontend
 
 <div align="center">
-    <img src="images/FECommits.PNG" alt="Frontend Commit" width="500">
+    <img src="images/FECommits.png" alt="Frontend Commit" width="500">
 </div>
 <div align="center">
-    <img src="images/FECommits2.PNG" alt="Frontend Commit" width="500">
+    <img src="images/FECommits1.png" alt="Frontend Commit" width="500">
 </div>
 <div align="center">
-    <img src="images/FECommits3.PNG" alt="Frontend Commit" width="500">
+    <img src="images/FECommits2.png" alt="Frontend Commit" width="500">
 </div>
 <div align="center">
-    <img src="images/FECommits4.PNG" alt="Frontend Commit" width="500">
+    <img src="images/FECommits3.png" alt="Frontend Commit" width="500">
 </div>
 <div align="center">
-    <img src="images/FECommits5.PNG" alt="Frontend Commit" width="500">
+    <img src="images/FECommits4.png" alt="Frontend Commit" width="500">
 </div>
 <div align="center">
-    <img src="images/FECommits6.PNG" alt="Frontend Commit" width="500">
+    <img src="images/FECommits5.png" alt="Frontend Commit" width="500">
 </div>
 <div align="center">
-    <img src="images/FECommits7.PNG" alt="Frontend Commit" width="500">
+    <img src="images/FECommits6.png" alt="Frontend Commit" width="500">
+</div>
+<div align="center">
+    <img src="images/FECommits7.png" alt="Frontend Commit" width="500">
 </div>
 
 
