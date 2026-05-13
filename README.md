@@ -594,19 +594,58 @@ Durante la ejecución del sprint se consiguieron completar satisfactoriamente to
 
 1. Configuración y edición del perfil de usuario, brindando la posibilidad de ajustar y adaptar la experiencia dentro de la aplicación según las preferencias individuales.
 
-
 2. Consulta y exportación de reportes, incorporando opciones de filtrado por rangos de fechas y categorías, así como la capacidad de descargar la información recopilada en distintos formatos disponibles.
-
 
 3. Administración de dispositivos, permitiendo gestionar de manera más ordenada e intuitiva los distintos equipos vinculados dentro del sistema.
 
-
 4. Implementación de internacionalización (i18n), facilitando el uso de la plataforma en dos idiomas distintos para mejorar la accesibilidad de los usuarios.
-
 
 5. Integración del soporte multilenguaje (i18n), reforzando la disponibilidad de la aplicación en más de un idioma y asegurando una interacción más inclusiva para diferentes tipos de usuarios.
 
-//imágenes
+**Configuración**
+<div align="center">
+    <img src="images/configuracion.PNG" alt="Configuración " width="500">
+</div>
+<div align="center">
+    <img src="images/configuracion2.PNG" alt="Configuración " width="500">
+</div>
+**Edición del Perfil**
+<div align="center">
+    <img src="images/edición-perfil.PNG" alt="Edición del Perfil" width="500">
+</div>
+
+**Reportes**
+<div align="center">
+    <img src="images/reportes.PNG" alt="Reportes" width="500">
+</div>
+
+**Administración de Dispositivos**
+<div align="center">
+    <img src="images/devices.PNG" alt="Dispositivos" width="500">
+</div>
+<div align="center">
+    <img src="images/agregar-device.PNG" alt="Agregar Dispositivo" width="500">
+</div>
+<div align="center">
+    <img src="images/editar-device.PNG" alt="Editar Dispositivo" width="500">
+</div>
+
+**Dashboard y Notificaciones**
+<div align="center">
+    <img src="images/dashboard.PNG" alt="Dashboard" width="500">
+</div>
+<div align="center">
+    <img src="images/dashboard2.PNG" alt="Dashboard" width="500">
+</div>
+<div align="center">
+    <img src="images/notificaciones.PNG" alt="Notificaciones" width="500">
+</div>
+
+**Internacionalización**
+<div align="center">
+    <img src="images/internacionalizacion.PNG" alt="Internacionalización de la plataforma" width="500">
+</div>
+
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
