@@ -505,6 +505,17 @@ Durante el segundo Sprint se continuó con el desarrollo de la plataforma web Aq
 </tr>
 </table>
 
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+Con la finalidad de mejorar la colaboración en equipo a cada integrante se asignó un rol de líder por cada aspecto. Los aspectos están relacionados con los entregables.
+
+| Team member (LastName, First Name) | GitHub UserName | Aspect 1: Dashboard View | Aspect 2: Profile and Notifications View | Aspect 3: Reports View | Aspect 4: Devices View | Aspect 5: Settings View |
+|------------------------------------|-----------------|------------------------------------|------------------------------------------|------------------------|------------------------|-------------------------|
+| Moscoso, Angelo                    | StephanoDang    | C                                  | C                                        | C                      | C                      | L                       |
+| Huaman, Yeira                      | YeiShari        | C                                  | L                                        | C                      | C                      | C                       |
+| Tirado, Gabriela                   | Gaby0443        | C                                  | C                                        | C                      | L                      | C                       |
+| Hancco, Keyner                     | 1Kanan2         | L                                  | C                                        | C                      | C                      | C                       |
+| Guevara, Diego                     | Digetto         | C                                  | C                                        | L                      | C                      | C                       |
 
 
 # Conclusiones y Recomendaciones
