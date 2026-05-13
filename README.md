@@ -672,7 +672,7 @@ El despliegue del Frontend de AquaPulse se realizó utilizando Netlify, aprovech
   <img src="images/evidence-frontend-deployment.jpeg" alt="Deployment Evidence" width="800">
 </div>
 
-**URL:**https://hydrosmartweb.netlify.app/#/dashboard
+**URL:https://hydrosmartweb.netlify.app/#/dashboard**
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 Durante el Sprint 2, nuestra colaboración se centró principalmente en la actualización del documento y frontend de AquaPulse. El equipo utilizó GitHub Projects para la gestión de tareas, asegurando que cada sección fuera desarrollado correctamente y a tiempo.
