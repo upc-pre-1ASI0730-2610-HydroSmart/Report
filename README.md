@@ -82,6 +82,24 @@
 | 2.3 | 24/04/2026 | teffomb | Se agregaron evidencias de ejecución y despliegue. |
 | 2.4 | 24/04/2026 | digeto | Se documentó la implementación de la Landing Page, servicios y aplicaciones. |
 | 2.5 | 24/04/2026 | Equipo | Se añadieron insights del equipo y cierre del proyecto. |
+| 2.6 | 13/05/2026 | YeiShari | Se añadieron líderes de aspectos y colaboradores del Sprint 2. |
+| 2.7 | 13/05/2026 | YeiShari | Se incorporaron evidencias de desarrollo para el Sprint 2 Review. |
+| 2.8 | 13/05/2026 | YeiShari | Se agregaron evidencias de ejecución para el Sprint 2 Review. |
+| 2.9 | 13/05/2026 | YeiShari | Se añadió documentación de servicios como evidencia para el Sprint Review. |
+| 3.0 | 13/05/2026 | YeiShari | Se incorporó el Sprint Backlog 2. |
+| 3.1 | 13/05/2026 | Gaby0443 | Se añadieron evidencias visuales del Sprint 2 (imágenes). |
+| 3.2 | 13/05/2026 | Gaby0443 | Se agregaron imágenes de apoyo para commits. |
+| 3.3 | 13/05/2026 | Gaby0443 | Se actualizaron extensiones y tamaños de imágenes. |
+| 3.4 | 13/05/2026 | Gaby0443 | Se refactorizaron etiquetas de imágenes para mayor consistencia. |
+| 3.5 | 13/05/2026 | Gaby0443 | Se añadieron evidencias de contribuciones del frontend. |
+| 3.6 | 13/05/2026 | Gaby0443 | Se corrigieron nombres de archivos de imágenes. |
+| 3.7 | 13/05/2026 | Gaby0443 | Se actualizaron imágenes del proyecto. |
+| 3.8 | 13/05/2026 | Digetto | Se actualizó el archivo README.md. |
+| 3.9 | 13/05/2026 | Gaby0443 | Se añadió evidencia de contribuciones en la documentación del Sprint 2. |
+| 4.0 | 13/05/2026 | Gaby0443 | Se incorporaron evidencias de commits del documento. |
+| 4.1 | 13/05/2026 | Gaby0443 | Se actualizaron detalles de despliegue y colaboración del proyecto. |
+
+
 </div>
 
 </div>
