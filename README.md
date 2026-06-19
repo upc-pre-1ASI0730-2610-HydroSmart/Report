@@ -888,11 +888,28 @@ A continuación se presenta la tabla de endpoints documentados:
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-#### Insights
-#### Contribuciones por miembro
-#### Commits del repositorio
-#### Network Graph
+Durante el Sprint 3 de HydroSmart, el equipo centró sus esfuerzos en el desarrollo y consolidación del backend mediante una API REST en .NET conectada a MySQL. Se implementaron los endpoints principales y la lógica de negocio para la gestión de usuarios, dispositivos, consumo de agua y notificaciones.
 
+En esta fase se estableció una estructura sólida del sistema, integrando módulos como Analytics, Devices, Profiles, Notifications y Settings, lo que permitió una comunicación fluida entre frontend y backend. Además, se incorporaron funcionalidades clave como el monitoreo del consumo, alertas por anomalías y gestión de dispositivos.
+
+El trabajo colaborativo se gestionó a través de GitHub, utilizando ramas por funcionalidad, commits estandarizados y revisiones mediante Pull Requests, asegurando calidad, orden y trazabilidad en el desarrollo.
+
+A continuación, se presentan las contribuciones individuales del equipo durante este sprint.
+
+#### Insights
+![insightssff](./images/oooaaa.png)
+#### Contribuciones por miembro
+![insightssprint3](./images/insights.png)
+
+#### Commits del repositorio
+
+![cap1](./images/cap1.png)
+![cap2](./images/cap2.png)
+![cap3](./images/cap3.png)
+![cap4](./images/cap4.png)
+
+#### Network Graph
+![net](./images/networkgraaa.png)
 
 ## 5.3. Validation Interviews.
 En esta sección se documentan las entrevistas de validación ejecutadas con usuarios reales pertenecientes a nuestros dos segmentos objetivo. El propósito es evaluar la usabilidad, claridad y propuesta de valor tanto de la Landing Page como de los prototipos navegables de la aplicación web de AquaPulse.
