@@ -752,6 +752,25 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
+A continuación se presenta un registro de los commits realizados en el repositorio upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend durante el Sprint 3. Cada entrada incluye el identificador del commit, su mensaje descriptivo y la fecha de consolidación, reflejando la evolución del proyecto desde la creación del Web Service hasta su despliege.
+
+| Repository | Branch | Commit Id | Commit Message | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/profile | 48f464d | feat(profile): add command and query services. | 17/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/profile | 50e4c4d | feat(profiles): add profile's resources. | 17/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/notifications | 8d14c23 | feat(notifications): add command services and query services. | 17/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/notifications | df8e940 | feat(notifications): add model builder extensions. | 17/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/devices | 014586a | feat(devices): add device domain model | 17/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/devices | 513983c | feat(devices): add device persistence configuration | 17/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/devices | 79f8333 | feat(devices): register device services | 17/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/settings | b007e1e | feat(setings): add more details. | 18/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/settings | 5b925aa | feat(settings): fix models. | 18/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/settings | 9ad5162 | feat (settings): add settings backend part. | 18/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/analytics | e5b45e1 | feat(analytics): add dashboard aggregate, queries and endpoint | 18/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/IAM | 83b8e66 | feat(IAM): add user repository. | 18/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/IAM | 06d8683 | feat(IAM): add IAM commands. | 18/06/2026 |
+| upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend | feat/IAM | be18627 | feat(IAM): add authentication user controller. | 18/06/2026 |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
 Durante el Sprint 3, el equipo logró desarrollar e integrar los módulos funcionales principales de la aplicación HydroSmart, consolidando su estructura como una plataforma enfocada en el monitoreo y optimización del consumo de agua. Se implementaron funcionalidades clave correspondientes a diversos componentes prioritarios del sistema:
