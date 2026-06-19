@@ -715,6 +715,15 @@ Durante el Sprint 2, nuestra colaboración se centró principalmente en la actua
 </div>
 
 
+### 5.2.3. Sprint 3
+
+Durante el Sprint 3 se llevó a cabo el desarrollo de la API de la plataforma HydroSmart, centrándose en la construcción de los endpoints principales y en la organización de la lógica que maneja la información del consumo de agua. Se trabajó en la conexión con la base de datos, así como en la implementación de capas como servicios y controladores, asegurando un flujo adecuado de datos entre las distintas entidades del sistema. Además, se puso énfasis en la solidez del servicio, una estructura de código clara y el uso de buenas prácticas de desarrollo backend, lo que permitió obtener una versión estable, ordenada y confiable del sistema.
+
+
+
+
+
+
 # Conclusiones y Recomendaciones
 
 ## Conclusiones
