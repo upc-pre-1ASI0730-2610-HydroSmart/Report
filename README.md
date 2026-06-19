@@ -886,6 +886,15 @@ A continuación se presenta la tabla de endpoints documentados:
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Durante el Sprint 3 se implementó el proceso de despliegue del backend de HydroSmart, asegurando la disponibilidad de la API REST desarrollada en .NET. A través de la integración con el repositorio en GitHub, se gestionó la actualización continua del servicio y la organización del código.
+
+El backend fue desplegado en la plataforma Render, lo que permitió contar con un entorno accesible y estable. Asimismo, se garantizó la conexión con la base de datos MySQL y el correcto funcionamiento de los endpoints documentados en Swagger. Esto permitió disponer de una API funcional, lista para su integración con el frontend.
+
+
+La aplicación backend, se encuentra en el siguiente link: https://hydrosmart-backend-jlh9.onrender.com/swagger/index.html
+
+![backend](./images/aaeeii.png)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 Durante el Sprint 3 de HydroSmart, el equipo centró sus esfuerzos en el desarrollo y consolidación del backend mediante una API REST en .NET conectada a MySQL. Se implementaron los endpoints principales y la lógica de negocio para la gestión de usuarios, dispositivos, consumo de agua y notificaciones.
