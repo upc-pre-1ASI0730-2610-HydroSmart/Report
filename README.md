@@ -732,6 +732,21 @@ Durante el Sprint 3 se llevó a cabo el desarrollo de la API de la plataforma Hy
 | **Velocidad del Sprint 3**                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | **Suma de Puntos de Historia**               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
+#### 5.2.3.2. Aspect Leaders and Collaborators.
+
+En este apartado se describen los aspectos técnicos y funcionales más relevantes trabajados durante el Sprint 3, centrados en el desarrollo de la API REST de la plataforma HydroSmart. Cada aspecto representa un módulo clave del backend, abarcando la implementación de endpoints (CRUD), el diseño de la lógica de negocio asociada y la definición de modelos de datos (schemas) para los recursos principales.
+
+Para cada aspecto se designó un Líder (L), responsable de la dirección técnica y la implementación principal, así como Colaboradores (C), encargados de apoyar en el desarrollo, validación y documentación de cada módulo.
+
+La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de manera clara la distribución de responsabilidades, garantizando la trazabilidad, coordinación y efectividad del trabajo colaborativo realizado durante el Sprint.
+
+| Team Member                   | GitHub Username | Reports Management | Notifications, Profile & IAM | Dashboard Managemente | Devices Management | Settings |
+|-------------------------------|-----------------|--------------------|------------------------------|-----------------------|--------------------|----------|
+| Moscoso, Angelo  | StephanoDang    | C                  | C                            | C                     | C                  | L        |
+| Huaman, Yeira  | YeiShari         | C                  | L                            | C                     | C                  | C        |
+| irado, Gabriela | Gaby0443        | C                  | C                            | C                     | L                  | C        |
+| Hancco, Keyner | 1Kanan2     | C                  | C                            | L                     | C                  | C        |
+| Guevara, Diego    | Digetto        | L                  | C                            | C                     | C                  | C        |
 
 
 
