@@ -750,6 +750,34 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.3.3. Sprint Backlog 3.
 
+El presente Sprint Backlog se orienta al desarrollo e integración del backend de la plataforma HydroSmart, estableciendo la estructura funcional que soporta la gestión de usuarios, dispositivos y proyectos. El objetivo principal del Sprint 3 fue implementar la lógica de negocio, los endpoints REST y la conexión con la base de datos MySQL, asegurando la correcta comunicación entre el servidor y el frontend.
+
+A continuación, se presenta la tabla de control de estado del Sprint 3, que detalla las User Stories, sus tareas asociadas (Work Items), descripciones funcionales, estimaciones en horas, responsables y estado actual de avance.
+
+| User Story ID | User Story Title                     | Task Id  | Task Title                         | Description                                                                 | Estimation (Hours) | Assigned To        | Status |
+|---------------|-------------------------------------|----------|------------------------------------|-----------------------------------------------------------------------------|--------------------|--------------------|--------|
+| US05          | Claridad del consumo en dashboard   | US05T01  | Diseñar vista del dashboard        | Crear interfaz clara con indicadores visuales del consumo de agua.         | 3                  | Keyner Hancco      | Done   |
+| US05          |                                     | US05T02  | Implementar gráficos de consumo    | Mostrar datos mediante gráficos comprensibles.                             | 3                  | Keyner Hancco      | Done   |
+| US05          |                                     | US05T03  | Agregar ayudas visuales            | Mejorar comprensión con colores e indicadores.                             | 2                  | Keyner Hancco      | Done   |
+| US06          | Historial de consumo                | US06T01  | Crear vista de historial           | Diseñar sección para visualizar consumo histórico.                         | 3                  | Diego Guevara      | Done   |
+| US06          |                                     | US06T02  | Implementar filtro por fechas      | Permitir seleccionar rangos de tiempo.                                     | 2                  | Diego Guevara      | Done   |
+| US06          |                                     | US06T03  | Mostrar gráficos históricos        | Visualizar consumo según periodo seleccionado.                             | 3                  | Diego Guevara      | Done   |
+| US07          | Proyección de gasto mensual         | US07T01  | Calcular proyección                | Implementar lógica para estimar gasto mensual.                             | 3                  | Keyner Hancco      | Done   |
+| US07          |                                     | US07T02  | Mostrar proyección                 | Integrar resultado en el dashboard.                                        | 2                  | Keyner Hancco      | Done   |
+| US08          | Alerta de consumo inusual           | US08T01  | Detectar consumo anómalo           | Implementar lógica para detectar consumo elevado.                          | 3                  | Yeira Huaman       | Done   |
+| US08          |                                     | US08T02  | Enviar notificaciones              | Notificar al usuario sobre consumo inusual.                                | 2                  | Yeira Huaman       | Done   |
+| US09          | Alerta de posible fuga              | US09T01  | Detectar consumo continuo          | Identificar patrones de posible fuga de agua.                              | 3                  | Yeira Huaman       | Done   |
+| US09          |                                     | US09T02  | Notificar fuga                     | Enviar alerta al usuario con detalles.                                     | 2                  | Yeira Huaman       | Done   |
+| US10          | Configuración de notificaciones     | US10T01  | Crear vista de settings            | Diseñar interfaz de configuración.                                         | 2                  | Stephano Moscoso   | Done   |
+| US10          |                                     | US10T02  | Guardar preferencias               | Permitir actualizar configuraciones.                                       | 2                  | Stephano Moscoso   | Done   |
+| US16          | Comparativo de consumo semanal      | US16T01  | Diseñar comparativa                | Crear vista para comparar semanas.                                         | 3                  | Diego Guevara      | Done   |
+| US16          |                                     | US16T02  | Implementar gráfico comparativo    | Mostrar diferencia entre semanas.                                          | 3                  | Diego Guevara      | Done   |
+| US17          | Gestión de dispositivos             | US17T01  | Registrar dispositivos             | Permitir agregar dispositivos al sistema.                                  | 3                  | Gabriela Tirado    | Done   |
+| US17          |                                     | US17T02  | Listar dispositivos                | Mostrar dispositivos registrados.                                          | 2                  | Gabriela Tirado    | Done   |
+| US17          |                                     | US17T03  | Actualizar dispositivos            | Editar información de dispositivos.                                        | 2                  | Gabriela Tirado    | Done   |
+| US18          | Gestión de perfil de usuario        | US18T01  | Ver perfil                         | Mostrar información del usuario.                                           | 2                  | Yeira Huaman       | Done   |
+| US18          |                                     | US18T02  | Editar perfil                      | Permitir actualización de datos.                                           | 2                  | Yeira Huaman       | Done   |
+
 #### 5.2.3.4. Development Evidence for Sprint Review.
 
 A continuación se presenta un registro de los commits realizados en el repositorio upc-pre-1ASI0730-2610-HydroSmart/HydroSmart-Backend durante el Sprint 3. Cada entrada incluye el identificador del commit, su mensaje descriptivo y la fecha de consolidación, reflejando la evolución del proyecto desde la creación del Web Service hasta su despliege.
