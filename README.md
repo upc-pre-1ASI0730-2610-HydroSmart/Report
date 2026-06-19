@@ -748,9 +748,30 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 | Hancco, Keyner | 1Kanan2     | C                  | C                            | L                     | C                  | C        |
 | Guevara, Diego    | Digetto        | L                  | C                            | C                     | C                  | C        |
 
+#### 5.2.3.3. Sprint Backlog 3.
+
+#### 5.2.3.4. Development Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+#### Insights
+#### Contribuciones por miembro
+#### Commits del repositorio
+#### Network Graph
 
 
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas
 
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heurísticas
+### 5.4. Video About-the-product
 
 # Conclusiones y Recomendaciones
 
