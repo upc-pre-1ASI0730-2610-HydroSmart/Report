@@ -827,8 +827,38 @@ Estas funcionalidades fueron integradas de manera coherente dentro de la aplicac
 
 
 ## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas
+En esta sección se documentan las entrevistas de validación ejecutadas con usuarios reales pertenecientes a nuestros dos segmentos objetivo. El propósito es evaluar la usabilidad, claridad y propuesta de valor tanto de la Landing Page como de los prototipos navegables de la aplicación web de AquaPulse.
 
+### 5.3.1. Diseño de Entrevistas
+## Entrevistas Segmento 1: Propietarios de viviendas con áreas verdes
+1. Al ingresar a la landing page, ¿qué entiende que ofrece AquaPulse?
+2. ¿La propuesta de valor inicial le parece clara para una vivienda con jardín o áreas verdes?
+3. Después de entrar a la aplicación web, ¿qué entiende que puede hacer desde el panel principal?
+4. ¿El panel principal le permite identificar fácilmente su consumo de agua y el estado general de su vivienda?
+5. ¿Qué información del panel le parece más útil: consumo actual, historial, alertas, recomendaciones o metas de ahorro?
+6. ¿Considera útil poder ver su consumo de agua en tiempo real desde la aplicación web? ¿Por qué?
+7. ¿Las alertas por consumo elevado o posible fuga le parecen suficientes para actuar a tiempo?
+8. ¿El historial o los reportes comparativos le ayudarían a tomar mejores decisiones sobre el uso del agua?
+9. ¿La sección de recomendaciones le parece útil para reducir el consumo o mejorar el riego de sus áreas verdes?
+10. ¿La aplicación web le parece fácil de navegar y entender sin ayuda externa?
+11. ¿Qué función de la aplicación web considera más valiosa para su hogar?
+12. ¿Qué información o función agregaría para que AquaPulse se adapte mejor a una vivienda con áreas verdes?
+13. Después de ver la landing page y la aplicación web, ¿usaría AquaPulse realmente en su hogar? ¿Por qué?
+
+## Entrevistas Segmento 2: Estudiantes que alquilan
+1. Al ingresar a la landing page, ¿qué entiendes que ofrece AquaPulse?
+2. ¿La propuesta de valor inicial te parece clara para alguien que alquila o comparte vivienda?
+3. Después de entrar a la aplicación web, ¿qué entiendes que puedes hacer desde el panel principal?
+4. ¿El panel principal te permite entender rápidamente cuánto estás consumiendo de agua?
+5. ¿Qué información te parece más útil: consumo actual, gasto estimado, alertas, historial o metas de ahorro?
+6. ¿Te serviría ver tu consumo de agua en tiempo real para controlar mejor tus gastos?
+7. ¿El gasto estimado o la comparación mensual te ayudaría a evitar sorpresas en el recibo?
+8. ¿Las alertas por consumo alto, posible fuga o límite mensual te parecen útiles?
+9. ¿El historial de consumo te ayudaría a identificar si estás gastando más de lo normal?
+10. ¿La aplicación web te parece simple y rápida de usar?
+11. ¿Qué función de la aplicación web usarías con mayor frecuencia?
+12. ¿Qué parte de la aplicación web te parece confusa, innecesaria o poco atractiva?
+13. Después de ver la landing page y la aplicación web, ¿usarías AquaPulse realmente o solo te parece interesante? ¿Por qué?
 ### 5.3.2. Registro de Entrevistas
 ### 5.3.3. Evaluaciones según heurísticas
 ### 5.4. Video About-the-product
