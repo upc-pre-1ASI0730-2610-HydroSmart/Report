@@ -754,6 +754,19 @@ La Matriz LACX (Leadership and Collaboration Matrix) permite visualizar de maner
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
+Durante el Sprint 3, el equipo logró desarrollar e integrar los módulos funcionales principales de la aplicación HydroSmart, consolidando su estructura como una plataforma enfocada en el monitoreo y optimización del consumo de agua. Se implementaron funcionalidades clave correspondientes a diversos componentes prioritarios del sistema:
+
+- Analytics (analytics): Se incorporó la visualización de datos de consumo, permitiendo interpretar la información mediante gráficos e indicadores claros.
+- Notifications (notifications): Se implementó un sistema de notificaciones para alertar sobre consumos inusuales o eventos relevantes.
+- Profile Management (profile): Se habilitó la gestión del perfil del usuario, permitiendo visualizar y actualizar su información básica.
+- User Management (users): Se desarrolló la administración de usuarios, facilitando la gestión de cuentas dentro del sistema.
+- Reports (reports): Se añadió la generación y visualización de reportes de consumo, permitiendo analizar el comportamiento a lo largo del tiempo.
+- Device Management (devices): Se implementó la gestión de dispositivos vinculados, permitiendo su registro y control dentro de la plataforma.
+- Settings (settings): Se incorporó la configuración del sistema, donde el usuario puede personalizar preferencias y notificaciones.
+
+Estas funcionalidades fueron integradas de manera coherente dentro de la aplicación, asegurando una navegación fluida, consistencia visual y una interacción eficiente. Como resultado, se obtuvo una versión estable de HydroSmart que permite a los usuarios gestionar y comprender su consumo de agua dentro de un entorno intuitivo y funcional.
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
