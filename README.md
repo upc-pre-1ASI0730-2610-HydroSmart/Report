@@ -228,6 +228,53 @@ En la fase de diseño, se establecieron lineamientos visuales para garantizar co
 - **Arquitectura de Información.** Definición de sistemas de organización, navegación y etiquetado.
 - **Planificación del Proyecto.** Construcción del backlog y organización del trabajo del equipo.
 
+### Reporte de Colaboración para la Entrega del AV2
+
+**AV2 - Desarrollo del Backend de la API REST e Integración del Sistema:**
+
+En esta segunda evaluación del proyecto HydroSmart, el trabajo se trasladó de la conceptualización inicial y el diseño estático hacia la construcción y consolidación de una infraestructura técnica real. Durante el Sprint 3, el equipo concentró sus esfuerzos en el desarrollo del backend de la plataforma utilizando una arquitectura escalable en .NET con persistencia en una base de datos MySQL, logrando migrar con éxito de simulaciones estáticas a un flujo real de almacenamiento y consulta de datos.
+
+El enfoque primordial de este periodo se centró en dotar a HydroSmart de la lógica de negocio y los endpoints necesarios para que los usuarios finales puedan monitorear, gestionar y comprender su consumo de agua de manera fluida. Se implementaron con éxito las capas de persistencia, servicios (Commands/Queries) y controladores REST, los cuales fueron debidamente documentados y probados mediante Swagger. Asimismo, se preparó la validación cualitativa del sistema mediante el diseño de entrevistas enfocadas en medir el impacto de la solución y la claridad del dashboard tanto en propietarios de viviendas como en estudiantes que alquilan.
+
+## Contributors
+
+<img src="images/imgg1.PNG" alt="Mi imagen" width="600"> <br>
+
+<img src="images/imgg2.PNG" alt="Mi imagen" width="600"> <br>
+
+**Guevara Serrano, Diego Ismael**
+- **Liderazgo de Aspecto (Reports Management).** Encargado principal del modelado y la extracción de datos históricos de consumo de agua dentro del sistema.
+- **Desarrollo de Endpoints de Análisis.** Implementó por completo la US06 (Historial de consumo) y la US16 (Comparativo de consumo semanal), codificando la lógica de filtrado por rangos de fechas para transferir colecciones estructuradas de datos al frontend.
+- **Documentación de Controladores.** Consolidó y estructuró los controladores de reportería e historial para su correcta visualización y prueba de carga de datos en Swagger UI.
+
+**Hancco Poma, Keyner Ivan**
+- **Liderazgo de Aspecto (Dashboard Management).** Responsable de la lógica central que alimenta la interfaz analítica del usuario final.
+- **Desarrollo de Lógica Analítica.** Diseñó las soluciones para la US05 (Claridad del consumo en dashboard) y la US07 (Proyección de gasto mensual), elaborando los algoritmos matemáticos en el backend para predecir el gasto financiero del mes corriente según el promedio de consumo diario detectado por los sensores.
+- **Infraestructura de Datos.** Desarrolló los endpoints de analítica bajo la ruta /api/v1/analytics/dashboard/{userId} para centralizar la entrega de KPIs en una sola petición web.
+- **Documentación.** Apoyó en conclusiones y desarrollo del reporte.
+
+**Huaman Olivos, Yeira Shari**
+- **Liderazgo de Aspecto (Notifications, Profile & IAM).** Dirigió el diseño e implementación del backend de perfiles de usuario, el control de acceso y el módulo de alertas críticas de consumo.
+- **Desarrollo de Endpoints y Lógica.** Desarrolló e implementó las User Stories de alertas preventivas (US08: Alerta de consumo inusual y US09: Alerta de posible fuga), programando la lógica para identificar patrones continuos o picos anómalos de flujo.
+- **Persistencia y Servicios.** Diseñó los controladores de /api/v1/profiles (operaciones CRUD para perfiles de usuario), inyectando los servicios de comandos y consultas correspondientes en la arquitectura.
+- **Planificación Ágil.** Actuó como preparadora del Sprint Planning 3 en la sesión virtual vía Discord, consolidando los objetivos y las estimaciones de velocidad del equipo.
+
+**Moscoso Bejar, Angelo Stephano**
+- **Liderazgo de Aspecto (Settings)** Responsable de estructurar la persistencia de las preferencias del sistema.
+- **Desarrollo de Configuraciones.** Implementó la US10 (Configuración de notificaciones), permitiendo a los usuarios modificar y guardar sus límites personalizados de alerta de agua a través del endpoint /api/settings.
+- **Integración y Arquitectura del Repositorio.** Llevó a cabo la corrección y refactorización de modelos en la base de datos MySQL, asegurando las extensiones del ModelBuilder en el contexto de persistencia de Entity Framework.
+
+**Tirado Carrera, Gabriela Luciana**
+- **Liderazgo de Aspecto (eDevices Management).** Lideró la construcción del módulo físico del sistema (gestión de hardware simulado/dispositivos de medición).
+- **Desarrollo CRUD de Dispositivos.** Diseñó e implementó la totalidad de la US17 (Gestión de dispositivos), habilitando el registro, listado, actualización y eliminación física de los medidores inteligentes de agua a través de los endpoints de la ruta /devices.
+- **Configuración de Persistencia.** Mapeó la configuración de persistencia relacional en MySQL para la entidad Device, asegurando la integridad referencial con los usuarios del sistema.
+
+**Contribuciones Grupales**
+- **Construcción del Backend Común.** Integración colaborativa del repositorio HydroSmart-Backend, adoptando un flujo de trabajo ágil basado en ramas de Git según el aspecto asignado (feat/profile, feat/notifications, feat/devices, feat/settings, feat/analytics, feat/IAM).
+- **Diseño del Instrumento de Validación Cualitativa.** Planificación conjunta de las guías de entrevistas de validación para los dos segmentos clave (propietarios de viviendas y estudiantes), enfocadas en recopilar feedback directo sobre el valor del monitoreo en tiempo real, las notificaciones de fuga y el uso práctico del software.
+- **Estandarización y Documentación de la API.** Pruebas y validaciones cruzadas de los contratos de endpoints a través de Swagger, garantizando respuestas y códigos de estado HTTP uniformes para asegurar una comunicación limpia con el frontend en el siguiente Sprint.
+
+
 # Contenido
 
 - [Student Outcome](#student-outcome)
