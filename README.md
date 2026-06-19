@@ -98,7 +98,18 @@
 | 3.9 | 13/05/2026 | Gaby0443 | Se añadió evidencia de contribuciones en la documentación del Sprint 2. |
 | 4.0 | 13/05/2026 | Gaby0443 | Se incorporaron evidencias de commits del documento. |
 | 4.1 | 13/05/2026 | Gaby0443 | Se actualizaron detalles de despliegue y colaboración del proyecto. |
-
+| 4.2 | 13/06/2026 | YeiShari | Se documentó el Sprint Planning 3, incluyendo objetivos, participantes y velocidad del sprint. |
+| 4.3 | 14/06/2026 | Equipo | Se consolidó la matriz LACX para la distribución de responsabilidades del Sprint 3. |
+| 4.4 | 15/06/2026 | Digetto | Se implementaron y documentaron los endpoints del módulo de Reports Management (historial y comparativos). |
+| 4.5 | 15/06/2026 | 1Kanan2 | Se desarrolló la lógica del Dashboard Management y la proyección de consumo mensual. |
+| 4.6 | 15/06/2026 | Gaby0443 | Se implementó la gestión completa de dispositivos (CRUD) y su persistencia en MySQL. |
+| 4.7 | 16/06/2026 | Dang | Se desarrolló el módulo de Settings, incluyendo configuración de notificaciones y preferencias de usuario. |
+| 4.8 | 16/06/2026 | Equipo | Se integraron commits del repositorio como evidencia de desarrollo del Sprint 3. |
+| 4.9 | 17/06/2026 | Equipo | Se documentaron evidencias de servicios y validación de endpoints mediante Swagger. |
+| 5.0 | 17/06/2026 | Equipo | Se consolidó el Sprint Backlog 3 con User Stories, tareas y estados de avance. |
+| 5.1 | 18/06/2026 | Equipo | Se elaboró la documentación de evidencias de ejecución del Sprint 3 (módulos integrados del backend). |
+| 5.2 | 18/06/2026 | Equipo | Se integró el reporte AV2 completo incluyendo arquitectura backend, endpoints y colaboración del equipo. |
+| 5.3 | 18/06/2026 | Equipo | Se añadieron las entrevistas de validación para evaluación de la plataforma AquaPulse. |
 
 </div>
 
