@@ -968,6 +968,16 @@ El uso de una base de datos simulada mediante archivos locales permitió probar 
 - **Esta entrega establece una base sólida para la evolución futura del sistema:**
 Con el frontend implementado y funcional, HydroSmart cuenta ahora con una base tecnológica estable sobre la cual podrán integrarse nuevas capas de desarrollo, como servicios backend, conexión con dispositivos IoT y funcionalidades avanzadas de análisis predictivo, fortaleciendo así la visión de largo plazo del proyecto.
 
+- **La incorporación del backend convierte a HydroSmart en una solución más cercana a un producto real:**  
+Con el desarrollo de una API funcional y conectada a una base de datos, HydroSmart deja de depender únicamente de interfaces visuales o datos simulados. Esto permite que el sistema avance hacia una plataforma capaz de gestionar información real de usuarios, dispositivos, consumo, reportes y alertas.
+
+- **HydroSmart ya cuenta con una base funcional para sostener sus principales propuestas de valor:**  
+Las funcionalidades desarrolladas, como dashboard, historial de consumo, proyección de gasto, alertas, notificaciones y gestión de dispositivos, se relacionan directamente con las necesidades identificadas en los segmentos objetivo. Esto demuestra que el avance técnico del proyecto mantiene coherencia con el problema inicial de brindar mayor control y visibilidad sobre el consumo de agua.
+
+- **La propuesta de HydroSmart gana mayor solidez frente a los segmentos objetivo:**  
+Al contar con funcionalidades orientadas al control del consumo, estimación de gasto, alertas y configuración personalizada, el producto se adapta mejor tanto a propietarios de viviendas como a jóvenes arrendatarios. Esto refuerza la idea de que ambos segmentos comparten una misma necesidad de control, aunque con motivaciones distintas.
+
+
 ## Recomendaciones
 
 - **Priorizar las alertas inteligentes en los primeros sprints:**  
@@ -993,6 +1003,15 @@ Aunque el enfoque inicial debe estar en Lima, donde se concentra la mayor parte 
 
 - **Medir el impacto real en los usuarios desde el inicio:**  
 Aunque el enfoque inicial debe estar en Lima, donde se concentra la mayor parte del mercado potencial, se recomienda documentar desde ya las decisiones de diseño y desarrollo considerando una futura expansión a otras ciudades del Perú y eventualmente a países como Ecuador, Colombia o Bolivia, que comparten condiciones de mercado similares.
+
+- **Simplificar la visualización de datos:**  
+Se recomienda presentar la información de consumo de forma clara y directa, evitando sobrecargar al usuario con gráficos o métricas difíciles de interpretar. El usuario debe poder entender rápidamente si su consumo es normal, elevado o requiere atención.
+
+- **Diferenciar la experiencia según el segmento de usuario:**  
+Se recomienda adaptar ciertos mensajes, indicadores y recomendaciones según el perfil del usuario. Para propietarios con áreas verdes, el enfoque debería estar en riego, fugas y consumo del hogar; mientras que para estudiantes o arrendatarios debería priorizarse el gasto estimado, alertas de presupuesto y comparación mensual.
+
+- **Preparar el sistema para futuras integraciones IoT:**  
+La gestión de dispositivos debe seguir evolucionando para permitir una futura conexión con sensores o medidores inteligentes. Sin embargo, se recomienda mantener una primera versión funcional sin depender de hardware especializado, para conservar la accesibilidad del producto.
 
 # Bibliografía
 
