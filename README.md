@@ -816,6 +816,74 @@ Estas funcionalidades fueron integradas de manera coherente dentro de la aplicac
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+Durante el Sprint 3 de HydroSmart, el trabajo se centró en el desarrollo e implementación del backend de la plataforma, construido con .NET y conectado a una base de datos MySQL. Este avance permitió disponer de una API funcional y documentada en Swagger, desde donde fue posible visualizar y probar los distintos endpoints relacionados con usuarios, dispositivos, proyectos y autenticación.
+
+*Estado Actual:*
+
+- Se desarrolló la base del backend de HydroSmart, incorporando controladores, modelos y servicios, garantizando la conexión adecuada con la base de datos y la correcta persistencia de la información en MySQL Workbench.
+- Se implementaron los endpoints principales enfocados en la gestión de dispositivos, usuarios, consumo de agua, reportes y configuraciones del sistema.
+- La API fue documentada y probada utilizando Swagger, lo que permitió validar el funcionamiento de cada endpoint y comprobar las operaciones CRUD de manera eficiente.
+- Se fortaleció la estructura general del backend, dejando preparada una arquitectura escalable para la futura incorporación de lógica de negocio más compleja y mecanismos de seguridad.
+
+El objetivo principal de este sprint fue pasar de una simulación basada en datos estáticos a una API funcional, consolidando así la infraestructura backend de HydroSmart y asegurando el almacenamiento y consulta real de los datos. Gracias a ello, la plataforma cuenta ahora con una base técnica sólida que permitirá continuar con la integración completa del sistema y el desarrollo de nuevas funcionalidades orientadas a la optimización del consumo de agua.
+
+A continuación se presenta la tabla de endpoints documentados:
+
+**Endpoints de Profiles**
+
+| **Endpoint**                 | **Acción**        | **Verbo HTTP** | **Parámetros**                                                     |
+|------------------------------|-------------------|----------------|--------------------------------------------------------------------|
+| /api/v1/profiles             | Create Profile    | POST           | userId, photoUrl, firstName, lastName, address, email, phoneNumber |
+| /api/v1/profiles             | Get All Profiles  | GET            | no parámetros                                                      |
+| /api/v1/profiles/{profileId} | Get Profile by Id | GET            | profileId                                                          | 
+| /api/v1/profiles/{profileId} | Update Profile    | PUT            | profileId                                                          | 
+
+**Endpoints Authentication**
+
+| **Endpoint**                   | **Acción** | **Verbo HTTP** | **Parámetros**        |
+|--------------------------------|------------|----------------|-----------------------|
+| /api/v1/authentication/sign-in | Sign in    | POST           | email, password       |
+| /api/v1/authentication/sign-up | Sign-up    | POST           | email, password, role |
+
+**Endpoints de Users**
+
+| **Endpoint**                    | **Acción**             | **Verbo HTTP** | **Parámetros** |
+|---------------------------------|------------------------|----------------|----------------|
+| /api/v1/users/{userId}          | Get User by Id         | GET            | userId         |
+| /api/v1/users                   | Get All Users          | GET            | no parámetros  |
+| /api/v1/users/{userId}/profiles | Get Profile by User Id | GET            | userId         | 
+| /api/v1/users/{userId}/password | Change User Password   | PUT            | userId         | 
+
+**Endpoints de Devices**
+
+| **Endpoint**                    | **Acción**       | **Verbo HTTP** | **Parámetros** |
+|---------------------------------|------------------|----------------|----------------|
+| /devices                        | Get All Devices  | GET            | section        |
+| /devices                        | Creace Device    | POST           | no parámetros  |
+| /devices/{deviceId}             | Get Device by Id | GET            | deviceId       | 
+| /devices/{deviceId}   | Update Device    | PUT            | deviceId       | 
+| /devices/{deviceId}   | Update Device    | DELETE         | deviceId       | 
+
+**Endpoints de Analytics**
+
+| **Endpoint**                         | **Acción**                           | **Verbo HTTP** | **Parámetros** |
+|--------------------------------------|--------------------------------------|----------------|----------------|
+| /api/v1/analytics/dashboard/{userId} | Get Dashboard Information by User Id | GET            | userId         |
+| /api/v1/analytics/records            | Dashboard Details                    | POST           | no parámetros  |
+
+**Endpoints de Notifications**
+
+| **Endpoint**                                  | **Acción**                          | **Verbo HTTP** | **Parámetros** |
+|-----------------------------------------------|-------------------------------------|----------------|----------------|
+| /api/notifications/user/{userId}              | Notifications by User Id            | GET            | userId         |
+| /api/notifications/user/{userId}/unread       | Get Unread Notifications by Id      | GET            | userId         |
+| /api/notifications/user/{userId}/unread-count | Get Unread-count Notifications by Id | GET            | userId         | 
+| /api/notifications/{id}                       | Get Notification by Id              | GET            | id             | 
+| /api/notifications/{id}                       | Delete Notification by Id           | DELETE         | deviceId       | 
+| /api/notifications                            | Post Notifications                  | POST           | no parámetros  | 
+| /api/notifications/{id}/mark-as-read          | Mark Notification As Read by Id     | PUT            | id             | 
+| /api/notifications/{id}/mark-as-unread        | Mark Notification As UnRead by Id   | PUT            | id              | 
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
