@@ -968,6 +968,140 @@ En esta sección se documentan las entrevistas de validación ejecutadas con usu
 
 
 ### 5.3.3. Evaluaciones según heurísticas
+
+## UX Heuristics & Principles Evaluation
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Aplicaciones Web  
+**SECCIÓN:** [Código de sección]  
+**PROFESORES:** [Nombre de los profesores]  
+**AUDITOR:** [Nombre del grupo evaluador]  
+**CLIENTE(S):** [Nombres de los participantes]
+
+### SITE O APP A EVALUAR
+
+HydroSmart
+
+### TAREAS A EVALUAR
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Iniciar sesión en HydroSmart.
+2. Recuperar la contraseña.
+3. Consultar las métricas del dashboard.
+4. Consultar y configurar dispositivos.
+5. Agregar un dispositivo.
+6. Editar la información del perfil.
+7. Consultar las notificaciones.
+8. Consultar y exportar reportes.
+9. Configurar las preferencias de ahorro y alertas.
+10. Consultar el centro de ayuda y soporte.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Registrar un usuario nuevo.
+2. Generar automáticamente nuevos reportes.
+3. Enviar reportes por correo electrónico.
+4. Habilitar la autenticación en dos pasos de forma real.
+5. Integrar dispositivos físicos con la aplicación.
+
+### ESCALA DE SEVERIDAD
+
+Los problemas serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|---|---|
+| 1 | Problema superficial: puede ser fácilmente superado por el usuario o sucede con muy poca frecuencia. No necesita ser solucionado, salvo que exista tiempo disponible. |
+| 2 | Problema menor: ocurre con mayor frecuencia o es un poco más difícil de superar. Se le debería asignar una prioridad baja. |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios tienen dificultades para resolverlo. Debe corregirse con prioridad alta. |
+| 4 | Problema muy grave: impide al usuario continuar utilizando correctamente la aplicación. Debe corregirse antes del lanzamiento. |
+
+### TABLA RESUMEN
+
+| # | Problema | Escala de severidad | Heurística/Principio vulnerado |
+|---|---|---:|---|
+| 1 | Algunos textos e iconos presentan caracteres incorrectos. | 3 | Inclusive Design: Proporciona experiencias comparables |
+| 2 | Los dispositivos mostrados en el dashboard no permiten acceder a sus detalles. | 3 | Information Architecture: Is it usable? |
+| 3 | La pantalla de reportes mezcla contenido en español e inglés. | 2 | Usability: Consistencia y estándares |
+| 4 | La opción de exportar como PDF descarga un archivo HTML. | 3 | Usability: Correspondencia entre el sistema y el mundo real |
+| 5 | Algunas configuraciones simulan haberse guardado sin explicar que solo se almacenan localmente. | 3 | Usability: Visibilidad del estado del sistema |
+| 6 | Las preguntas del centro de ayuda no permiten consultar información detallada. | 2 | Usability: Ayuda y documentación |
+
+### DESCRIPCIÓN DE PROBLEMAS
+
+
+---
+
+#### PROBLEMA #1: Los dispositivos del dashboard no permiten acceder a sus detalles
+
+**SEVERIDAD:** 3  
+**HEURÍSTICA VULNERADA:** Information Architecture: Is it usable?
+
+**Problema:**
+
+El dashboard muestra una sección con los dispositivos del usuario. Sin embargo, al seleccionar uno de ellos, no se abre una pantalla con información detallada ni se dirige al módulo de dispositivos. La presentación visual puede hacer pensar que los elementos son interactivos.
+
+![Problema 2](![Problema1.PNG](images/Problema1.PNG))
+
+**Recomendación:**
+
+Convertir cada dispositivo en un enlace o botón que permita acceder directamente a su configuración e información detallada.
+
+
+
+---
+
+#### PROBLEMA #2: La exportación PDF descarga un archivo HTML
+
+**SEVERIDAD:** 3  
+**HEURÍSTICA VULNERADA:** Usability: Correspondencia entre el sistema y el mundo real
+
+**Problema:**
+
+Cuando el usuario selecciona PDF y presiona el botón de descarga, la aplicación genera un archivo HTML. El resultado no corresponde con el formato elegido y puede provocar confusión.
+
+![Problema 4](![Problema2.PNG](images/Problema2.PNG))
+
+**Recomendación:**
+
+Implementar una biblioteca de generación de documentos PDF y descargar el archivo con extensión `.pdf` y contenido válido.
+
+---
+
+
+#### PROBLEMA #3: El centro de ayuda no muestra información detallada
+
+**SEVERIDAD:** 2  
+**HEURÍSTICA VULNERADA:** Usability: Ayuda y documentación
+
+**Problema:**
+
+El centro de ayuda presenta preguntas frecuentes, pero estas se muestran como texto estático. El usuario no puede seleccionarlas para consultar una respuesta o guía detallada.
+
+![Problema 6](![problema3.PNG](images/problema3.PNG))
+
+**Recomendación:**
+
+Convertir las preguntas en elementos interactivos que desplieguen respuestas, tutoriales o enlaces a documentación relacionada.
+ 
+---
+
+#### PROBLEMA #4: La cantidad de dispositivos activos es inconsistente
+
+**SEVERIDAD:** 3  
+**HEURÍSTICA VULNERADA:** Usability: Consistencia y estándares
+
+**Problema:**
+
+El dashboard indica que existen cinco dispositivos activos. Sin embargo, la sección “Mis dispositivos” muestra una cantidad diferente y solo uno figura como activo. Esta contradicción dificulta conocer el estado real de los dispositivos.
+
+![Inconsistencia de dispositivos](![Problema4.PNG](images/Problema4.PNG))
+
+**Recomendación:**
+
+Obtener la cantidad y el estado de los dispositivos desde la misma fuente de datos del backend, evitando valores definidos manualmente.
 ### 5.4. Video About-the-product
 
 # Conclusiones y Recomendaciones
