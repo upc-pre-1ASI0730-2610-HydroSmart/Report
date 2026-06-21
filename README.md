@@ -1022,12 +1022,10 @@ Los problemas serán puntuados tomando en cuenta la siguiente escala de severida
 
 | # | Problema | Escala de severidad | Heurística/Principio vulnerado |
 |---|---|---:|---|
-| 1 | Algunos textos e iconos presentan caracteres incorrectos. | 3 | Inclusive Design: Proporciona experiencias comparables |
-| 2 | Los dispositivos mostrados en el dashboard no permiten acceder a sus detalles. | 3 | Information Architecture: Is it usable? |
-| 3 | La pantalla de reportes mezcla contenido en español e inglés. | 2 | Usability: Consistencia y estándares |
-| 4 | La opción de exportar como PDF descarga un archivo HTML. | 3 | Usability: Correspondencia entre el sistema y el mundo real |
-| 5 | Algunas configuraciones simulan haberse guardado sin explicar que solo se almacenan localmente. | 3 | Usability: Visibilidad del estado del sistema |
-| 6 | Las preguntas del centro de ayuda no permiten consultar información detallada. | 2 | Usability: Ayuda y documentación |
+| 1 | Los dispositivos mostrados en el dashboard no permiten acceder a sus detalles. | 3 | Information Architecture: Is it usable? |
+| 2 | La opción de exportar como PDF descarga un archivo HTML. | 3 | Usability: Correspondencia entre el sistema y el mundo real |
+| 3 | Las preguntas del centro de ayuda no permiten consultar información detallada. | 2 | Usability: Ayuda y documentación |
+| 4 | La cantidad de dispositivos activos es inconsistente. | 3 | Usability: Consistencia y estándares |
 
 ### DESCRIPCIÓN DE PROBLEMAS
 
@@ -1043,7 +1041,7 @@ Los problemas serán puntuados tomando en cuenta la siguiente escala de severida
 
 El dashboard muestra una sección con los dispositivos del usuario. Sin embargo, al seleccionar uno de ellos, no se abre una pantalla con información detallada ni se dirige al módulo de dispositivos. La presentación visual puede hacer pensar que los elementos son interactivos.
 
-![Problema 2](![Problema1.PNG](images/Problema1.PNG))
+![Problema 1](images/Problema1.PNG)
 
 **Recomendación:**
 
@@ -1062,7 +1060,7 @@ Convertir cada dispositivo en un enlace o botón que permita acceder directament
 
 Cuando el usuario selecciona PDF y presiona el botón de descarga, la aplicación genera un archivo HTML. El resultado no corresponde con el formato elegido y puede provocar confusión.
 
-![Problema 4](![Problema2.PNG](images/Problema2.PNG))
+![Problema 2](images/Problema2.PNG)
 
 **Recomendación:**
 
@@ -1080,7 +1078,7 @@ Implementar una biblioteca de generación de documentos PDF y descargar el archi
 
 El centro de ayuda presenta preguntas frecuentes, pero estas se muestran como texto estático. El usuario no puede seleccionarlas para consultar una respuesta o guía detallada.
 
-![Problema 6](![problema3.PNG](images/problema3.PNG))
+![Problema 3](images/problema3.PNG)
 
 **Recomendación:**
 
@@ -1097,7 +1095,7 @@ Convertir las preguntas en elementos interactivos que desplieguen respuestas, tu
 
 El dashboard indica que existen cinco dispositivos activos. Sin embargo, la sección “Mis dispositivos” muestra una cantidad diferente y solo uno figura como activo. Esta contradicción dificulta conocer el estado real de los dispositivos.
 
-![Inconsistencia de dispositivos](![Problema4.PNG](images/Problema4.PNG))
+![Problema 4](images/Problema4.PNG)
 
 **Recomendación:**
 
