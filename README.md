@@ -1,55 +1,58 @@
-<div align="center" style="text-align: center;">
-<img src="./images/Logo-UPC.png" alt="Logo UPC" width="150">
-<h3>Universidad Peruana de Ciencias Aplicadas</h3>
-<h4>Facultad de Ingeniería</h4>
-<h4>Carrera de Ingeniería de Software</h4>
-<h4>Periodo 202601</h4>
-<h4>1ASI0730 Aplicaciones Web</h4>
-<h4>NRC: 2610</h4>
-<h4>Docente: Rafael Oswaldo Castro Veramendi</h4>
-<h4>Informe del Trabajo Final</h4>
-<h4>Startup: HydroSmart</h4>
-<h4>Producto: AquaPulse</h4>
+<div align="center">
 
-<br>
+  <img src="./images/Logo-UPC.png" alt="Logo UPC" width="100">
 
-<h2 style="text-align: center;">Team members:</h2>
+  <p>Universidad Peruana de Ciencias Aplicadas<br>
+  Carrera de Ingeniería de Software</p>
 
-<table style="margin: 0 auto; text-align: center;">
-  <thead>
-    <tr>
-      <th>Código</th>
-      <th>Nombre</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>U20211G499</td>
-      <td>Moscoso Bejar Angelo Stephano</td>
-    </tr>
-    <tr>
-      <td>U20221C726</td>
-      <td>Keyner Ivan Hancco Poma</td>
-    </tr>
-    <tr>
-      <td>U202419592</td>
-      <td>Gabriela Luciana Tirado Carrera</td>
-    </tr>
-    <tr>
-      <td>U202210513</td>
-      <td>Yeira Shari Huaman Olivos</td>
-    </tr>
-    <tr>
-      <td>U202318951</td>
-      <td>Diego Ismael Guevara Serrano</td>
-    </tr>
-  </tbody>
-</table>
+  <br>
 
-<br>
-<h4 style="text-align: center;">Abril 2026</h4>
+  <p><strong>1ASI0730</strong><br>
+  <strong>Aplicaciones Web</strong></p>
 
-</div>
+  <p>NRC<br>
+  <strong>12263</strong></p>
+
+  <br>
+
+  <h3><strong>Informe del Trabajo Final</strong></h3>
+
+  <br>
+
+  <p>Docente<br>
+  <strong>Castro Veramendi, Rafael Oswaldo</strong></p>
+
+  <br>
+
+  <p>Equipo<br>
+  <strong>HydroSmart</strong></p>
+
+  <br>
+
+  <p>Proyecto<br>
+  <strong>AquaPulse</strong></p>
+
+  <br><br>
+
+  <p><strong>Integrantes</strong></p>
+
+  <p>
+    <strong>Código</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Apellidos y Nombres</strong><br>
+    U20211G499 &nbsp;&nbsp;&nbsp;&nbsp; Moscoso Bejar, Angelo Stephano<br>
+    U20221C726 &nbsp;&nbsp;&nbsp;&nbsp; Hancco Poma, Keyner Ivan<br>
+    U202419592 &nbsp;&nbsp;&nbsp;&nbsp; Tirado Carrera, Gabriela Luciana<br>
+    U202210513 &nbsp;&nbsp;&nbsp;&nbsp; Huaman Olivos, Yeira Shari<br>
+    U202318951 &nbsp;&nbsp;&nbsp;&nbsp; Guevara Serrano, Diego Ismael
+  </p>
+
+  <br><br>
+
+  <p><strong>Período 202610</strong></p>
+  
+  <br>
+
+  <p><strong>Julio 2026</strong></p>
+
 
 <div style="page-break-after: always;"></div>
 
