@@ -1148,6 +1148,15 @@ Las funcionalidades desarrolladas, como dashboard, historial de consumo, proyecc
 - **La propuesta de HydroSmart gana mayor solidez frente a los segmentos objetivo:**  
 Al contar con funcionalidades orientadas al control del consumo, estimación de gasto, alertas y configuración personalizada, el producto se adapta mejor tanto a propietarios de viviendas como a jóvenes arrendatarios. Esto refuerza la idea de que ambos segmentos comparten una misma necesidad de control, aunque con motivaciones distintas.
 
+- **La verificación integrada permitió validar el funcionamiento real de los flujos del sistema:**  
+En esta entrega se comprobó que los endpoints no solo respondan correctamente de manera individual, sino que también interactúen de forma adecuada con las pantallas del frontend. Esto permitió validar flujos completos de uso, como la consulta, visualización y actualización de información desde la interfaz hasta el backend.
+
+- **La integración frontend-backend mejoró la consistencia de la información mostrada al usuario:**
+Al conectar las funcionalidades visuales con los endpoints correspondientes, se pudo verificar que los datos presentados en la aplicación sean coherentes con la información gestionada por la API. Esto fortalece la confiabilidad del sistema y reduce inconsistencias entre lo que el usuario observa y lo que realmente existe en el backend.
+
+- **La entrega permitió pasar de una validación técnica aislada a una validación funcional del producto:**
+La comprobación de endpoints desde el frontend permitió evaluar el comportamiento de AquaPulse como una aplicación integrada, no solo como módulos separados. Esto representa un avance importante hacia una versión más estable, usable y cercana a un entorno real de operación.
+
 
 ## Recomendaciones
 
@@ -1183,6 +1192,15 @@ Se recomienda adaptar ciertos mensajes, indicadores y recomendaciones según el 
 
 - **Preparar el sistema para futuras integraciones IoT:**  
 La gestión de dispositivos debe seguir evolucionando para permitir una futura conexión con sensores o medidores inteligentes. Sin embargo, se recomienda mantener una primera versión funcional sin depender de hardware especializado, para conservar la accesibilidad del producto.
+
+-**Mantener pruebas de integración por flujo completo:**
+Se recomienda continuar validando los procesos principales desde la interfaz de usuario hasta la respuesta del backend, considerando acciones como iniciar sesión, consultar dashboard, gestionar dispositivos, revisar notificaciones y actualizar información. Esto permitirá detectar errores que no siempre aparecen cuando los endpoints se prueban únicamente desde Swagger.
+
+-**Estandarizar las respuestas de los endpoints consumidos por el frontend:**
+Se recomienda mantener una estructura uniforme en las respuestas de la API, incluyendo datos, mensajes, códigos de estado y manejo de errores. Esto facilitará que el frontend procese la información de manera ordenada y muestre mensajes claros al usuario.
+
+-**Priorizar la corrección de inconsistencias entre datos visuales y datos reales:**
+Se recomienda revisar las secciones donde existan valores mostrados manualmente o información que pueda diferir de la base de datos. Todos los indicadores importantes, como dispositivos activos, consumo, alertas y reportes, deberían obtenerse directamente desde el backend para asegurar mayor precisión.
 
 # Bibliografía
 
