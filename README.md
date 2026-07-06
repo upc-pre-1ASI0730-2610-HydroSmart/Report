@@ -36,24 +36,38 @@
 
   <p><strong>Integrantes</strong></p>
 
-  <p>
-    <strong>Código</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Apellidos y Nombres</strong><br>
-    U20211G499 &nbsp;&nbsp;&nbsp;&nbsp; Moscoso Bejar, Angelo Stephano<br>
-    U20221C726 &nbsp;&nbsp;&nbsp;&nbsp; Hancco Poma, Keyner Ivan<br>
-    U202419592 &nbsp;&nbsp;&nbsp;&nbsp; Tirado Carrera, Gabriela Luciana<br>
-    U202210513 &nbsp;&nbsp;&nbsp;&nbsp; Huaman Olivos, Yeira Shari<br>
-    U202318951 &nbsp;&nbsp;&nbsp;&nbsp; Guevara Serrano, Diego Ismael
-  </p>
+<table style="margin: 0 auto; border-collapse: collapse;">
+  <tr>
+    <th style="text-align:left; padding: 2px 20px;">Código</th>
+    <th style="text-align:left; padding: 2px 20px;">Apellidos y Nombres</th>
+  </tr>
+  <tr>
+    <td style="padding: 2px 20px;">U20211G499</td>
+    <td style="padding: 2px 20px;">Moscoso Bejar, Angelo Stephano</td>
+  </tr>
+  <tr>
+    <td style="padding: 2px 20px;">U20221C726</td>
+    <td style="padding: 2px 20px;">Hancco Poma, Keyner Ivan</td>
+  </tr>
+  <tr>
+    <td style="padding: 2px 20px;">U202419592</td>
+    <td style="padding: 2px 20px;">Tirado Carrera, Gabriela Luciana</td>
+  </tr>
+  <tr>
+    <td style="padding: 2px 20px;">U202210513</td>
+    <td style="padding: 2px 20px;">Huaman Olivos, Yeira Shari</td>
+  </tr>
+  <tr>
+    <td style="padding: 2px 20px;">U202318951</td>
+    <td style="padding: 2px 20px;">Guevara Serrano, Diego Ismael</td>
+  </tr>
+</table>
 
-  <br><br>
+<br><br>
+<p><strong>Período 202610</strong></p>
 
-  <p><strong>Período 202610</strong></p>
-  
-  <br>
-
-  <p><strong>Julio 2026</strong></p>
-
-
+<br>
+<p><strong>Julio 2026</strong></p>
 <div style="page-break-after: always;"></div>
 
 ## Registro de Versiones del Informe
