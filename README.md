@@ -467,3 +467,14 @@ Asimismo ayudó a detectar ciertos puntos que no están del todo claros que debe
 | Device                | Sensor asociado al monitoreo del consumo de agua.                                                                                 |
 | Authentication        | Proceso de validación de credenciales para permitir el acceso del usuario a la aplicación.                                        |
 | Notification          | Mensaje enviado al usuario para informarle sobre eventos importante detectados por el sistema.                                    |
+
+
+### 2.3.4. Empathy Mapping.
+
+**Segmento 1: Propietarios de viviendas con áreas verdes**
+
+<img src="images/Empathy_mapping_1.png" alt="Empathy_mapping_1.png" width="500">
+
+**Segmento 2: Estudiantes que alquilan**
+
+<img src="images/Empathy_mapping_2.png" alt="Empathy_mapping_2.png" width="500">
